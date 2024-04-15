@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://livednow.com/epg.xml"
+
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮-阿门角（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/60/3d/c0a8e26cf0a0aa10e2e775ec5ceec919.m3u8?VIDEOID=68568093&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮-15&16号洞（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/57/8b/6f816cc5cbab1994175b3701e5dc0166.m3u8?VIDEOID=68568098&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮-国际信号（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/da/67/21834b4f2118e36a51105570b0578bb5.m3u8?VIDEOID=68568108&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮-练习场（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/b4/fb/8f31d3e802bdc4893720505e632178f7.m3u8?VIDEOID=68568086&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮-焦点组（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/d4/e7/4a690d8a756f71583ed8b9e25a35d045.m3u8?VIDEOID=68568096&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第四轮（中文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240415/9c/cc/e74fb8b48961acf5c00fc7cdbbd05c6b.m3u8?VIDEOID=68568106&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第三轮-国际信号（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240414/e9/fa/113199a76432468a86877a2de202e2e3.m3u8?VIDEOID=68565711&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第三轮-15&16号洞（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240414/6b/6f/2039726c8b7a9cd15a84c3e506fab4aa.m3u8?VIDEOID=68565702&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第三轮-阿门角（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240414/78/c4/af8a87a0b0bf8d737f6cf0ce09e3ea7f.m3u8?VIDEOID=68565664&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第三轮-焦点组（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240414/ff/7c/2b2aed76755eb4f86a1576064f802875.m3u8?VIDEOID=68565638&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第三轮（中文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240414/a2/ff/66ecec704c188fbf980514a69e03437e.m3u8?VIDEOID=68565597&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第二轮-国际信号（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/ec/0a/bbd81bb47a99fd341edfa93c6dddd702.m3u8?VIDEOID=68563264&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第二轮-15&16号洞（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/d3/70/dc9944e4d1fecb432314ac64c0b3da4c.m3u8?VIDEOID=68563192&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第二轮-阿门角（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/12/c8/77718a0bb8354eadc43ffca942834a90.m3u8?VIDEOID=68563174&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第二轮-焦点组（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/20/09/7c1d321c037684d8ba57505015fc03a9.m3u8?VIDEOID=68564452&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第一轮补赛-阿门角（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/4d/41/7a6cfe6298dffeb2f4461865986b0cfe.m3u8?VIDEOID=68563079&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第一轮补赛-焦点组（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/27/68/879ed7ab54b0848409c6eaf4503bcb7f.m3u8?VIDEOID=68563077&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第一轮补赛-15/16洞（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/82/5e/5e65afeb3bcea344c622346fc63f0bbe.m3u8?VIDEOID=68563076&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+#EXTINF:-1 tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/1106d825f.png" group-title="高尔夫大师赛",2024美国大师赛第一轮补赛-国际信号（英文回放）
+https://security.ssports.com/api/channel/v6/watchIqyVideo/20240413/1d/5b/fd112c37fe8a4ea0425553c7c96583db.m3u8?VIDEOID=68563073&UID=0e094942fc6e4a0f8e5ae9532f1bd268&QUALITY=1080&UUID=539d230e87fb4f848eb4ec85e901c63a&DEVICE=pc
+
+
+
