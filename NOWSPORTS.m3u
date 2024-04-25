@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://livednow.com/epg.xml"
+
+#EXTINF:-1 group-title="⚽赛事体育⚽",NOW体育 4K 50M
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
