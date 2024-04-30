@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
+https://livednow.com/migu/608807420?sign=gAAAAABmKJFhc9aTfAuX3o-yRb33KhCvt7246nQDym24pd8saQ15tRQc6l9nEc-x_icOsSecm9jhEnhWyFUar22bm4K1RZp9-VOATkalWSA6xjrMqe70-h2NOqmzEga0r7Mxm7HfsfLv9Fwr7KzDsQt0KtHqtRl0pRHpyKzZAE0zq3S7fKtcC2ccVYY8YH84NBaQfz4H_rmbb96r4mgn212HwkIfGRIp_A%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV2 财经
+https://livednow.com/migu/631780532?sign=gAAAAABmKJFhXiYlBzOPHVJu4fNTPXvKv1jseyvwe0FShyTrQ7XQzq0hehEOuNoQxmLUw-UkNu8gDU5mnjZdJPVJqdS5AMFYEkdunOii1phmnFLfluF6gZNECi4sfsZDshNE0IWh_Qhd2LE39p7jrt1ZQaPsiUSdi7TThX0kxjCFPVUM6wcDICo0SFeObZ4FNqtVa1ctNFuPNkVHX0pgHL_GSx4Aym22qQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV3 综艺
+https://livednow.com/migu/624878271?sign=gAAAAABmKJFhID9piRDKZYrMcqd2R5iPLpd-a7eDjz5wEY4sVGrEhqBLEtQffBgFjI50BNzWiJEH0yEwFtPasvl4WIkGzBpM4pzFNYSJqJBRBgxJa2ewb3zIa5se1hm_l9EI4qzWoLUJkMuuZYa3fBa0cDWtYqBBN6FE-toy26wF01Y2XW347hK9ieDWWcz3I20p-VQrFbSq4UrQzDOxr3aeKTeIABLcAQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV4 中文国际
+https://livednow.com/migu/631780421?sign=gAAAAABmKJFhYVROLGcYTyJQdchMiiGjsMIPiW9eYZQiVhSQUU2ZrJxFhtg6Dpzo665yMQZ7Btf0fM3VA_JbmfH3F97Evfji8THLxCbUOfY7nzOnyfdS7XcA5LbINnIn-Z_E4LdUswGiruR97aGYUnahhVHrFRZHViYzU-xmVXitMDQ9_bgNwNRWyruIdyk2ZaEwlb6-LrKfRcMHF-yqFfxu1ydHs3Hxgg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV5 体育
+https://livednow.com/migu/641886683?sign=gAAAAABmKJFhaVoUuEOmTKDMj5wgV92ywg-D7Z6UbMEpl-38K5R4hABwcfdaftC8kaWVgPUPsUTclaaxWzkDRg4OKkWIuXPdlT_ll3cpQ9vh7OsIpUuVtX48eeuFTbwh62jsWQq1YygSWv_JhcwmVuK6qNwyUQPE_wPEGSNJXtAVmfwfYDZGMNCtn0craGVOAoQ48eaF1yq5rHTQXnM5FJ-ONLHgJS6S7A%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV5+ 体育赛事
+https://livednow.com/migu/641886773?sign=gAAAAABmKJFhQ4d3iUfxXYRm7svq3kTreyCYwyLdzTO4LcFsYtzBRTY-14atOFVXH8qaaRIJwgaWk8v68V1LkdZj8uY4IoBD1lAY7GSaXx_6hMdbLuePpLu8xe1DnvvuQAfmwh3ox0XmXiBkkQKgLLLAj1DakmnXLVVCKM62qQv15e-KLWhvTSzzM4NeJLuHBWZ9zciqc9Aa14jhyKj9gt1LmiYZZHio2Q%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV6 电影
+https://livednow.com/migu/624878396?sign=gAAAAABmKJFhigL9ApPKtyjxtkiLh6KAROsl31H7w_zWOMSARMscCIwqX8daG0jV-WdlZRWDm3JCKTG_a2LJRBg_uzfkOankpSvE4TcN9tJTwhl9mDASEIBBbzQc1uDvzXMpsF0ZWAq389MXFsk7M9FNXWiMf8Oz9kLrjqSV8BjL9-ObGeeabrQ1GamqrSEp25lmqCufA5vVlrtmVLJgIGEQmLOI-_nOfQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV7 国防军事
+https://livednow.com/migu/673168121?sign=gAAAAABmKJFh1e_It4jCN1JZymvuQrJSGZxLqihlxLzug2SzM2aQ4MpvokjV4G1W6nw37RhE36st1VaPBWFRb75XsV26fzJp8cNOZXtxcbUANAJWUJawmuP-zld1s4ZCc_it1bzrxuaPUaes-bDv41xRNRtT9yZd03eK-2Xe2xtgwG2cxVXmjOkkEbTCkntlThd3GILj8IohtNmVNtr1GAKV8kggRZ3WhA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV8 电视剧
+https://livednow.com/migu/624878356?sign=gAAAAABmKJFhpZfzDfiRmLXpJVzMTKXbI7HKwYqRzZZZ2p7VA17FdUjLg6rzxqeR0nmmk6sknQo9jKOw0_QfeFmhuRQVLZ_QHtFVswUfQoLDmGd305BID3_P245XlPTwYTBqjtbYMafxHUix_Kog5tGXjl_1ljkOSWyrbp3bUk4eOHQF20klSTCBe5VYlOrbirjsf6Z3_bH_QoZUfUs0ORKefDr0xBjpsg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV9 纪录
+https://livednow.com/migu/673168140?sign=gAAAAABmKJFhgvFzPU8ZqIYdo4815qpJrB8B4zMicWAEZ009SYdIYNgGJsUkjoFy6MC-Z2WduIwk3gwhdixVTWIYXSwSOA2sSHgCPwdAmQapc72VEdoP3TUv6Rsl8N3uSG4cwzHfWa2FDWu3BSyPp0iAhw8CFVmBSCDNXZk0wp94WQ4bY4sQOmL9Jyz9avVmGpY_H45Qc5VgsnWG7xjZmJ2cSJNZ7XuA1A%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV10 科教
+https://livednow.com/migu/624878405?sign=gAAAAABmKJFhSOHH32pB1wOkNtoRkNaFcmvNfJrVIzIGnoLRMneCXFCPWEivhRrJ5WqL_NDWA4bA3GDBGCm94Cnsk7mlr06jGP3bHU6gLlTB8qvyQ1417nAYe10aouWPYkKnus8vZPmcw2DB-mjrmb1FIOEBfyICNmgIDie09i_hgOGszDg3m92p-2Q2qvby0NNRyXZcPReDtNQ6E_tzymG_ZBRbhnbOfQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV11 戏曲
+https://livednow.com/migu/667987558?sign=gAAAAABmKJFhGCJbvrZhqjpRgItmXJcR5hJkC5sC7TgQ4U2O0cA-SXxC027f6VVx49ESeo31_HeGtAkPla154mcpRoxY82ynPvP3-N0XMSEcU0Uj7pvsm8xP_ODRSwoK1HPwBViRyRrxzMogy4Qf5ggNyTOZxkvR8fSnzkBoF8dT2FKgmXLPJWRHxmcvOWMWrFJnqmHcNvE4ebrT80iJ3xD56PyNQmCpCA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV12 社会与法
+https://livednow.com/migu/673168185?sign=gAAAAABmKJFhKPEDq8HU7sYPltM4douw2cDvWArq_YAiaWyomDev0lt3Qlg6x8cV-K-07coOqUavWwbaffLehZeSZMcOCT6jRy5zw8jpF8kvmd_NT3XYJuryu-xjoIsunS_NpWYV3crRclwPqrNx4PDnZX2NUbPHpQz189eTS-IiB5PY64eMjumE3AyKwQIIeNC--L0C6vQRhUjbV2huLfcm8um033Mnxw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13 新闻
+https://livednow.com/migu/608807423?sign=gAAAAABmKJFhXD-YIihN9KYQNGPtvuXzu5Iy3DVzobJVInAZRJafvhYcEvU2NwTPP3DeyXGy5esY7QiqlgK64zrASTD9uX3FDtlFXJn82sFP0xwy20Z0wSZ7Xp5w7micDrPk9HxghVSJoWR5N_Ru6p20ckDXODeie5k7aHfIIg7RDNtyLYNkhYZK1op_dmDlRlEM0Qy3TGBkA5vg_S4uGdfx2t0y4JDdEw%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV14 少儿
+https://livednow.com/migu/624878440?sign=gAAAAABmKJFh21cghXwGXfGLzaofwTy6sQvkfxGA_s4Oi7rklEYvj_oy1EYGe1uOLU9-VNIxQSE2SA7XAOlZgzAKR_NcB8faEFff84ZZDtbt2SY2N2M71EfKpwtDgJD4QHqB9G3an2pMafUAXt-3SYBvC3FHcclBNH3oDHfVGmi4Xax9mKA7MYEH8OizUJ0zNwQtSJsCIF1wTPP61029oVeJQ4mVliBtVQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV15 音乐
+https://livednow.com/migu/673168223?sign=gAAAAABmKJFhx7L6A-KpYk_YAcM5Z8AJIyPLCInbsrUo1-8YBXvJ69fL_4vYJwv7IJIHQZgKnFg7t0AfTJVMqs4CUn5sGWROpgp2J5zzHWonaN4ll2ZyWK-rQer74n0A-ihYHMiAroAiuCN-pfnu0Bapyn2d4r3qLKXxLoi2i_UdfoLguH7ZUmhrvgHo5VZKjKyEELEqI5LnhxXAe4Yuu4GS5gR7yk-4fg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
+https://livednow.com/migu/673168256?sign=gAAAAABmKJFh-URKYhMFMb01fYawyzIsWmq3fcN9ACltuqdI7vh-CBo3uvO5sb8Q_Q9L8EGvnbpX1ibuyo_Pxi1sDgLv3eys0fvXeax9X5XB9gVGMTM4bON-mPirZVoccNMv4DyErg0znz9UkdAMr8-uMRNmazzxSHJclyaf9wEpYwOgLFH6VBO3HNvC4NdbuWbN7XDoWLfyq86H9uqEGwe0zjZ7FFyOTQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png" group-title="央视",CCTV4 欧洲
+https://livednow.com/migu/608807419?sign=gAAAAABmKJFhgVIuUstdtdux2bbAkKfttP5Fs5E4Y7FppxyB4_pxWL-xNuIiW3tHJ-4WD295Ft_KUGXexNczNyhc8os-HoeqCdA-3VJ9XCeAPal9V4cusn6I-SWBSog_0490NNUzPBEhC5Thb8qnAATFELRleTDwXXgNyfIteUUjW75PUy_1XWNLCnSF4ueRnaKPE9pCJA-pj6_nsrPXLTUgsA1PYrkj5A%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
+https://livednow.com/migu/608807416?sign=gAAAAABmKJFhCv-o8GBkq2iBWF0Y7FikmOu17KMjNv6oX27DIvuRltjWTfGe-iRu2zLyMY7xSGUxjEt2toNw5zPtV9WC8rG8rUz1ykjhQHKyqnMmtkQnB3UsSzC9wpDidOASqEiSm3QhRb8l7jfV8x73yW3RBOk8z2AVlBCAx8iDPURkqnQOD6sWcvm0LQ41ixXQ-50Y1aA7FUyz0FxS2-A1noBVbPbWIQ%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV-老故事" tvg-name="CCTV 老故事" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202311101552_1699602573407_H169_1080.jpg" group-title="央视",CCTV 老故事
+https://livednow.com/migu/884121956?sign=gAAAAABmKJFhAruYlWifHHXXudvwtRii6GXqBPkFbyMy2Y6kTpaXTT3DGFg6GlqJLpfeh4Sqcg5jFxOY1mr4QECcjXvGbs6uHy4mcCC0yLee4FbX3EfPfoWpfC6-o-e_tJ8A7DxNi9dcIJs_PiusKFQuqqhExMMFH-G3EEwZBlX0MQ9p3rKDh4WVQo2ZqWW7GCqHxXmEWpCf1m4sSvOXfpC0Y-8uFMV9dg%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://assets.livednow.com/logo/CGTN.png" group-title="央视",CGTN
+https://livednow.com/migu/609017205?sign=gAAAAABmKJFhkhe0L30iSu_CMFR56ArBFGQgbPtLUbKtCxkx4oLtyTG0KpvKp1SpbR2TOsnfi2TnC61yFAR79gumkal7g6AqQ1RDsV1TxN8v714llj94bN02omNG2aRnvMifaEm9Ins6m2tvyk94TJaw2F1kHMki-3OTmR1oQkwFr_ZDZ_OD9y7ZcJ_j0avos8XgLZKXZirKZbNZfO-d9CIxtyMRgf2iYQ%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN-阿拉伯语" tvg-name="CGTN 阿拉伯语" tvg-logo="https://assets.livednow.com/logo/CGTN-阿拉伯语.png" group-title="央视",CGTN 阿拉伯语
+https://livednow.com/migu/609154345?sign=gAAAAABmKJFhdWZfLHEoOwHtkjil6FnAl-OkcVn1ALDC6z_bwcVbqyKy6Ao2kCnur1-IxmejuOgdRwGtVTNzkykXpzRFMan0WxZe976GThnrJFfqrEmvXaPqGIGKmhkL8PizCcX4p4A39PoHgeTo0f3-axj6NCI0mDDokAX_qU7FY2BTGQTMF2kPNv9tUSOjXHW_X8YjYI61QnRefl-azBmGvG12ZwWQ7A%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN-西班牙语" tvg-name="CGTN 西班牙语" tvg-logo="https://assets.livednow.com/logo/CGTN-西班牙语.png" group-title="央视",CGTN 西班牙语
+https://livednow.com/migu/609006450?sign=gAAAAABmKJFhdBNKUp8D2PAubahyxLNwHFdbTuvOJu-AMeH7jJ3UXUktPSV7WgS-2KvMKg4Ji6Yp0r4xhm7BX3GtDBOnyXHmumZ4qPGanv2GpRav-wIgsn4qGz2J8CEz1sqJGoSTPco4lDRql2WC5C2gcuKVr7Ri9qmSqoULPismXFvZiTVZNaFiXaS68d29ohDulV2OGzQZEkbTCvco4xCg8lmgHmoVrA%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN-法语" tvg-name="CGTN 法语" tvg-logo="https://assets.livednow.com/logo/CGTN-法语.png" group-title="央视",CGTN 法语
+https://livednow.com/migu/609006476?sign=gAAAAABmKJFh_ZJ5NbRJqaS0Z39YYURC_HsH_KoXFkv_W9ymwxAYGWgnIHj9pVFl-1Pje81DeWemKqaonaABX1UbvUTbivhHewC9PQioCKeOEunhOp7cIMBwXbPFX0-o3bGWAoZa0G7dPSo5nvyNdv7DQnO0zjhAdd0EWuiovM0nLUILNNCEjkWJrmLI2fpPrXVo2zjEsyYa6BDytX8fgVIIP1veVrxajg%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN-俄语" tvg-name="CGTN 俄语" tvg-logo="https://assets.livednow.com/logo/CGTN-俄语.png" group-title="央视",CGTN 俄语
+https://livednow.com/migu/609006446?sign=gAAAAABmKJFhIVsN_lvb0GqssQwTakXQXd-yv0FUU6c7N4RPzzWG9y-yI6yxd_8D2_8Tdd3awtkOfpej7cjw2WOeuIeuruoU_2S_HM6mJPh7VpgNo_M-U8Xryt4qUyur-IIXaQBew40D0GBLxthz9feLvCWrlJCnaiLFg8RLkT3GflhKZ45FM8J5FLyUYUkZavfOKd6FeYVntYDcnn-CqlCGzko6vl82tw%3D%3D
+
+#EXTINF:-1 tvg-id="CGTN 纪录" tvg-name="CGTN 纪录" tvg-logo="https://assets.livednow.com/logo/CGTN 纪录.png" group-title="央视",CGTN 纪录
+https://livednow.com/migu/609006487?sign=gAAAAABmKJFh3AB-OqHSXbwI_KIVKD2iDA-hSYEqoGwucPK2u2WXlJC4hwBtELYISUbDQCZXqj9cjlS3CVlAmqECemXGCmG4RTHfceOIqDidNpy9QkSSlwi00naPeyFWIsm2RBJW3g4vxMsyfenMO2XlxZTHN6MU3AfwkEHIULdfuzsweX8hXzwn5gGs6hoVOSwJ_1xY9ErxczC0oDWR9nb7g5gbzOa-6g%3D%3D
+
+#EXTINF:-1 tvg-id="中央新影发现之旅" tvg-name="中央新影发现之旅" tvg-logo="https://assets.livednow.com/logo/中央新影发现之旅.png" group-title="央视",中央新影发现之旅
+https://livednow.com/migu/624878970?sign=gAAAAABmKJFh8DodXLiaE213i2WXfXlNrB8q4_hxb1JU5YBrOeAoLwpJpX-5tV3brp9cCXADFxDqK_r_VbwOZU5qXXzgyDYojjMIFq0u5OFQavtQbayfPnafoAyZMyIXUMTeoCTVFpxzXBK00cYPAPIEJk5qKxiB4h1oeo2HsR6Af2kud6OrNAznizn7KtvmZEox0eYDBqhH_3aq3OAMSYNz7N7Kd2wy9A%3D%3D
+
+#EXTINF:-1 tvg-id="中央新影中学生" tvg-name="中央新影中学生" tvg-logo="https://assets.livednow.com/logo/中央新影中学生.png" group-title="央视",中央新影中学生
+https://livednow.com/migu/708869532?sign=gAAAAABmKJFhWronNka_AvgPuKwYaVvUqUA8UqtRKtcMQKu68dsUI1iDIOVBsJRYlg6XIfEIRzue9LycmtqFtmow25HJfXbJqSdw_GLRf9QZJsE8Diwk5s_NKehpPBZKrztddmj7P4JrgLK1tgnp8aoGhypYjQmafAVxOajODXjTWaoFELwtpNYNukdwg-gpE3AqtMhWUa40rfAvPWqlfk-fB6qzCal8FA%3D%3D
+
+#EXTINF:-1 group-title="💻广东频道",广东珠江
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 group-title="💻广东频道",广东珠江
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 group-title="💻广东频道",大湾区卫视
+http://glive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1 group-title="💻广东频道",广东文化
+https://glive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="💻广东频道",广州综合
+http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+#EXTINF:-1 group-title="💻广东频道",广州新闻
+http://php.jdshipin.com:8880/gztv.php?id=xinwen
+#EXTINF:-1 group-title="💻广东频道",广州竞赛
+http://php.jdshipin.com:8880/gztv.php?id=jingsai
+#EXTINF:-1 group-title="💻广东频道",广州影视
+http://php.jdshipin.com:8880/gztv.php?id=yingshi
+#EXTINF:-1 group-title="💻广东频道",广州法治
+http://php.jdshipin.com:8880/gztv.php?id=fazhi
+#EXTINF:-1 group-title="💻广东频道",广东体育
+http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="💻广东频道",广州南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 group-title="💻广东频道",广东体育
+https://skype.serv00.net/itouch.php?id=gdty
+#EXTINF:-1 group-title="💻广东频道",广东珠江
+http://php.jdshipin.com:8880/chudian.php?id=gdzj
+#EXTINF:-1 group-title="💻广东频道",大湾区卫视
+http://php.jdshipin.com:8880/chudian.php?id=nfws
+#EXTINF:-1 group-title="💻广东频道",广东民生
+http://php.jdshipin.com:8880/chudian.php?id=gdms
+#EXTINF:-1 group-title="💻广东频道",广东新闻
+http://php.jdshipin.com:8880/chudian.php?id=gdxw
+#EXTINF:-1 group-title="💻广东频道",广东体育
+http://php.jdshipin.com:8880/chudian.php?id=gdty
+#EXTINF:-1 group-title="💻广东频道",广东影视
+http://php.jdshipin.com:8880/chudian.php?id=gdys
+#EXTINF:-1 group-title="💻广东频道",广东国际
+http://php.jdshipin.com:8880/chudian.php?id=gdgj
+#EXTINF:-1 group-title="💻广东频道",广东移动
+http://php.jdshipin.com:8880/chudian.php?id=gdyd
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png" group-title="卫视",湖南卫视
+https://livednow.com/migu/635491149?sign=gAAAAABmKJFhkyU0EwglzAD3PbsXu-yIkH_8ArrnrNGaA-VYdrfSryDIHHEdU5r3jxbaVvNRpHpFVUed0Tzxlx-DMqZWORow2qweO7hm8m5Y_8o7oOuC7mtfnSG7ltVPOGlyIbZ5Oz2PAMbPrt7KnLEq_Xzs5OzTOLL3RiRwTjEY1f3ywK4MDGovmE3GA6GnJ67wQSFvSsaiiI5luKdr_nHoVtQW9BifQw%3D%3D
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://assets.livednow.com/logo/东方卫视.png" group-title="卫视",东方卫视
+https://livednow.com/migu/651632648?sign=gAAAAABmKJFhXiVpFoABmVHjUI96wzdOL9Sjp0pXBBa7R1oYo_dYN7LvQ2_Bo1ugA37va4Ss6NwZyw4lR2TSbvjFYCmkkQXiOoO5ZzU4taHH_FVAmmsrcBPKI9GO0Ww0UDqa5PHyViZlJnF3iaz3cdWIeWqj7mshHMnz-uefdpWY4cbd3DaC0J5RWKhjyp8XewAonRitAYmsSsN7xMB6ulqnqkQHsrDNDQ%3D%3D
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://assets.livednow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
+https://livednow.com/migu/623899368?sign=gAAAAABmKJFhIpXhtOGEh-Y3nda2Aq_rSi11qLuSEsWZb1tDd7S3NxjUILtyMCapxy2VMMCCq0oiq06wv9tzYItUaYmfO15t2cPUNHpBerF7zxqTFDowOAjDnVvwbd3cu7gcqOfsLZTXwNt_v42PvQY2Lw-m8-pBv2Zn0MWIrjOUAfRIIpMUfgm-d-skDUxknCF3R7f8hYucnxeQ1HwTm85hfFLI0Q82CQ%3D%3D
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视",广东卫视
+https://livednow.com/migu/608831231?sign=gAAAAABmKJFhSZuRpPiwjAvSJD5q8JzxzobUuVbigEk6-W1grFbxXMr1TwaLYYymojuDFFi4msQ1nZ2NjpcZJg8fUVEzTtj_Cwj9E4jcqJKSJUH7CVzidOZp0XXtvLojbeD1MbvNXf2y6QwWONN-4SzFhnQg4rFMmxgwLm2AU0tx26JXgEMgQXG8PlWq6-Crq_fD9gU-7xed5FuIs4Zo1x_gznOZUfJPlQ%3D%3D
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://assets.livednow.com/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+https://livednow.com/migu/630291707?sign=gAAAAABmKJFhyqSvEEw73qs0l9mvvuOsUEIUgJ5Qzt0mlakWewQ916FTRfMS8oB0CEVkpFKP-qKapgK1Y_KKK51ReS5mmSth-42b8LpIYsVCQnNnzEb827HudzHEmiwsG2bSCIGhSRTye3phPhh7-LOUz6y3TZtuqiuYhi-v4oYUvrfnOGQLj6RypRGnNq2Fi2iYEMAhYISXJOlRbko1Y8IzKY9Qgcdcuw%3D%3D
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://assets.livednow.com/logo/江西卫视.png" group-title="卫视",江西卫视
+https://livednow.com/migu/783847495?sign=gAAAAABmKJFhiFcwRajCmfNidwXhkNEORjoPU5GPHB8sNeE1m9x6Mg0qEUempGTfbbV_NmJ7bHxXD1Uq7mhyaY__t-zB3j3QaDo7Z5hC2Ijljtr2kz2ljx8y4-b9eOFqlRoW7BhzY6BCgM_HFed7-5ddjl-Jhvu1DFztG1YFawboJwuQlmNbIzrnJNxsL1u0XvgYFwV107fDfnwvcY1Do2dyt6-PlZBMrQ%3D%3D
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://assets.livednow.com/logo/山东卫视.png" group-title="卫视",山东卫视
+https://livednow.com/migu/738910366?sign=gAAAAABmKJFhCfZJTDvxXJ0ykNQN9cD0O9XUfSPc4nr93k6uVQlLVbc7oXq0juTU89JqksLuZnf9_V03nf5cWd1kLnbeQaLerthoQHEMMCB4lXo_06WOVRRPghMPpw7f-RQLd_XXrcemZso7sn8iuWHIpULbY5uuDWKP4D32QQUmdbttViIjLSQGn-WIMiq0UVlPZ-Kn8v285_7HSQS29pW4mEFlsQ8MvA%3D%3D
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://assets.livednow.com/logo/河南卫视.png" group-title="卫视",河南卫视
+https://livednow.com/migu/790187291?sign=gAAAAABmKJFh-G-J2Eg3CEIdzThegyTa_qqcY100M3E63S9qxxKhPnRCRP7jXROAvxwXmfUinrcZDZ9xGBXkIegc3CLdaJP5tk0w4r_P4kHEGpaPaEPViqHEVBN6OPJefI2FDiHci4vcD-Z-l4pMBUi15mi_6bJgjUb5tG69mFua0MARHX4IPDT--arWVpHS-ucLA3_XJL-JwBJKi08JHpgotWH3wfH-3g%3D%3D
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://assets.livednow.com/logo/重庆卫视.png" group-title="卫视",重庆卫视
+https://livednow.com/migu/738910914?sign=gAAAAABmKJFhw8dK-L4xTvF43s5O3m4GdN40LEFy3pLQ7Xs9WeeQKDUkb8XBdNaTxWwp8Oa3jW-nI7iaWwB7aRMOOqwtxBCI5Kepd22aHd26CvS1Hlw99AzDFiQe_z1XVkhaJw8UifkxCZpqa-FQMZqdPvOBEf2Qbbx_aWtOhKextwFrEU7vR18zi8Aq3mbpFbP8Hhevr2hmyhjurQ-1Y9jISLQ7d1ApYQ%3D%3D
+
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://assets.livednow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
+https://livednow.com/migu/738910838?sign=gAAAAABmKJFhuBOyzgjO7EyGIDQKTivhyW8lJxHpJ_mPyOxbxjYIYUEC5DOypRk2eARbd5FKC4oQ0U-cBKaMp1CfEalNqOwzbAQeRl9nFykT7mZHs3eH27XsuQYNqmu0cVrZT9itFXDq98aoGHW184nmVCKeeBtcxwUUxAg9Vo__oAfNfY8BHOZ9KSX9nZ4hA86C_j_oRD8ngr2Wt8iuw8uBIKTF9DN3ww%3D%3D
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://assets.livednow.com/logo/海南卫视.png" group-title="卫视",海南卫视
+https://livednow.com/migu/738906860?sign=gAAAAABmKJFh395JNQkyzKm7Qm94acYTUypfsb5xviLjHA-9Z5HmzSXRORmHej8LV02NX5oTxknmILop2GhJcnKlgDRu2Qa-4oN-7xb4YH7BlroqPBEmO06CpfCyoeqsVvbbQz7zTkXqPXa1exi-XZTdENSNoWHLW7qFZ6afMMMqm_9-lHqayhnLcOj08g0FGhqlDB9KwBIYqMzSLKyGPAeCOE1lWun2Zg%3D%3D
+
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://assets.livednow.com/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
+https://livednow.com/migu/608917627?sign=gAAAAABmKJFhaXkpCx0PhXN8PArTabLPrwX3Jm3pBWBKLvwCKOT4eL3JT69FU880Yp7PqE0xVhcw-C9MC_mi1pLf-sHejR_Xm4z3nwxaMypD7Enh2ocOjacIcXrkI9aEYRUVNHW_1gQRduLg9GEpmKtxq0sW84TuXPtN4g68qnbyW_NxTnjmN8PZ9hew8PILUhkibwFOf27GXABjiNIKgZUnrW2bQItneg%3D%3D
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://assets.livednow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
+https://livednow.com/migu/738906825?sign=gAAAAABmKJFh5VOCNkBI-mxLsPM0X5qcakN-EraIism0dOja0U9QFSHp37r99ssVvCS_4MUnBJ5ZRkuLOZvXOr6hjNQ1r4yXFlSMOJeAU8iKvlvPUQ53jejIGSecBZJnx5nQ9M_wr4JWJbwHzymDm_xSYH9Ry3sZNLhhkldzW1HZfP6B9ezQZLJ_7Hc3dGVGjBBeeqO0tgG79JSCDi-RgsdImXSfbehWHg%3D%3D
+
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://assets.livednow.com/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://livednow.com/migu/738911430?sign=gAAAAABmKJFhGyWD0QlUS11KvsW38UhsS-ql1ny2f4UmkQXw5oYdNHeTnWuAySJQLjFLJfvX6Hk9IpxIW0QRxym1Z2pr6J8rmWAhERa9KlOmXLuHaBzf3ZzYmX2Rt7zfvF7cDLZKkofHcjYdggCxKyEpLNntmamz7eIizIgO9FMsR9HbbBMbQ2OpxMmrhk8S_hohZMOsb9r2FcPtSdj0i1qc5FN3A_qVDA%3D%3D
+
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://assets.livednow.com/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+https://livednow.com/migu/738910997?sign=gAAAAABmKJFhfAzPRCyubVVbI0_ZYbn35k3obM20bgzYUuDKKVKsflGgw4SvLl9KtWtPi9dT-hhQ5jj-d8PtgrqnVhrqxl0OkdmoEJ5GNVb5U9DnFjWcakwTnyGicicVMAKNPwaDAc93dnqlktsF7ljG1OqbQVEUkPbbHhKmkTbXh1FkGrDefla6rCPNE90UNC3CUgpFW9rADPkx5IULlDLv2EhSqaiCsQ%3D%3D
+
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://assets.livednow.com/logo/新疆卫视.png" group-title="卫视",新疆卫视
+https://livednow.com/migu/738910476?sign=gAAAAABmKJFheANETTzdP1J4TdHXrvOH9qkyzUCaI0-SPZwuDte8wchv5mwCJO9UgGVeV7ed6S_HcekumGEqusldJfThJZTpjDHOY-H9pV7cGjvtuo-jvCIAx_azJZmHVTveNEoh52_TZOJvdUqyNONg2vFrYqE8frWTca2OLSBKaSUjUSOUvd2JyJM8fjiuj6HdUYJTDl6xqGfLQ6FBtWXq6RV_9DHFzw%3D%3D
+
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://assets.livednow.com/logo/西藏卫视.png" group-title="卫视",西藏卫视
+https://livednow.com/migu/738910461?sign=gAAAAABmKJFhXoVwGXVdy1_ZzD3UXR6sDRhQJJaEx0HvIfea8pgXpHIbRZZOD3XHdKLASNNwPo0J4eAHfvyhEGlqy8merNLxNAljEeO5ompeklnv8ecQumkfHLPCqf92swDOkOk6LGldlFn4aD4Fychl-jPfVMUx91dqXM55FRLtL332DyhWYp3qhiHBrZmWSETB6_OvsqKiufp-d1iVRPOZReyPfCv3Rg%3D%3D
+
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://assets.livednow.com/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+https://livednow.com/migu/738910535?sign=gAAAAABmKJFhkAGd-r2AkpM5_rvVP8mHvX1r1oeTdsRxTIuMbtAEBSlQorh2Z9qkrMlim-JfG2Y8uUym1c_A7RsJJhO2kwk6R0x7S-XAiRWAj-hMzOZKRzCvm-28xeRTkpo3TS7UaYHhSGgBjiSZ-l8AiXBJ2BKUU6C3ouVqpqzhLg1NCl_bru1OnGl97JyUkPyTThVUmxU5tCbaVYv9Li8vqlHAOs-vpA%3D%3D
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://assets.livednow.com/logo/广西卫视.png" group-title="卫视",广西卫视
+https://livednow.com/migu/783844132?sign=gAAAAABmKJFhWROpCGNJeR-8YroreDhNxh9nqrKLHkbnDEkbdw87EMa_cnfEYZx9CnkRep_RyNI_7cRM5e1Ui9zuvlE-lVe9bN5yjtOrg6b_X8LfPOHoPjOy5yPgooAYoQqC5IUfJxUCSQ7S3_QwjwpQ72HNcSXa8eTTY647Jcd40l35wxXlfKlpNABAlso5oGsMwUrnMTIHtztETM1r__Cba-pgfkJXXw%3D%3D
+
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://assets.livednow.com/logo/云南卫视.png" group-title="卫视",云南卫视
+https://livednow.com/migu/783846580?sign=gAAAAABmKJFhKw_VOfnov6cHSCS-y1TP_vezclExy23pJ_yvZJFlnJxn3Zy_x0ZjhB9Lu46jnj9PXonf69cpu7SKddZ8NnS-YEKgXTcFZ8SiMiRK4wMQpCD3D9ltmAvCWJV2jz42I3sgPkhuc3Hhbg7PTxSAkDkyhtEOcRIxtaXlDtX1J4h0PvRCykO-9u1mLrW3ejit1iQDWTvwA99L2dP8wOmvzENe-w%3D%3D
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://assets.livednow.com/logo/贵州卫视.png" group-title="卫视",贵州卫视
+https://livednow.com/migu/783845222?sign=gAAAAABmKJFhowJVteSu9-xvKTCzO47EaT1814VksHCtzXkuYGYm-p7CV2Vs5ZVNnSH5UHlCnWFFfPUMqXdus0VPP4ZWTv0UhzZi0DtDIy9YpFqgZnKMZqc0xEj3Otdkbwj6F1gFxPyhWUWuhwRdCVK-kDMXPrjVmQMpusfb173lF8FaqDX9zbNcX3mCR99S1HByuDomOQhy_2KdyS359Iq5aVPTOSGkrg%3D%3D
+
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://assets.livednow.com/logo/青海卫视.png" group-title="卫视",青海卫视
+https://livednow.com/migu/738898486?sign=gAAAAABmKJFhIs2ojIDU963sxqbMIjVsW-3jqIE80ZAVweGq7vosaWzUaVIOzOLmy7QvAFPiqePsctvv6sJSlPMcSWSZHkKE8yPnAax9drLAZoSY6nKkh6_bK-HgVUMBkXC2zJ-394zt7y-904wFe0ClHqUMNUPE6z5E5B6OppmY2KhZrxQZ28LV4gzJti_zaV1izT_x3Ide0ZBiCHbKmSHwzXBG2sBa6g%3D%3D
+
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://assets.livednow.com/logo/吉林卫视.png" group-title="卫视",吉林卫视
+https://livednow.com/migu/738906889?sign=gAAAAABmKJFhBBhWnnPRRZL27nsJbFdFYYW1d_L8qnhX0rhV_eqqziXI_frfwh_LY25v7OqZjxZe_fn1liYSl8l-S-dgRi0G6YQxRmCTCNYNL0dtCXf1issraR0ZUy0UN6nebQE86V1SpAKNypOEMB3xdRcgls_jSRJbrblkrIDyC8dGa4wr08PHmdhYoDK26lpS2_KJj7dxcBQdr6QwHmQOx0NnrhgWLA%3D%3D
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://assets.livednow.com/logo/东南卫视.png" group-title="卫视",东南卫视
+https://livednow.com/migu/849116810?sign=gAAAAABmKJFhVSUKVBsnaSoiokoKUX9X4cDhlLT6IM9xyTwpGzTR70t58dMWnuMSBjK5zFgASbyzyOjNnHGT_3MP2mhh_Pts8Cv2MZOvcIuXC31a2nSmZ1oezo87xX2_KcD6IW_Y9Mknn7lUAKAaEFRqMG2tls__4PuwC3fE7A4OzNWjPKCm-vCHSvEs_Rlq_JCnXyQ3L3VSH5WKCE1AjCPrPgnUe3C_Ug%3D%3D
+
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://assets.livednow.com/logo/海峡卫视.png" group-title="卫视",海峡卫视
+https://livednow.com/migu/849119120?sign=gAAAAABmKJFh6YsHHQFkqH6Ue5IjcJDGi-gibR0gPy9QEnUdfLy7FzvUnMXWMQ_-5NolmAUB22AKRf-EPyUYiH2iP7kU4w9ol2e7uVfidkPTj5S7r0dZ7fB0SeOn2CrLPsuYY4E81tnAHm0V3O3awgQXTqq4oOty983TDeG3UCcx1iZilEL22oqW7GBHpwRtQ5R5dPT7n26yHVGE4Q6CMFHw8tvaZe42XQ%3D%3D
+
+#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="体育",NBA 经典
+https://livednow.com/migu/788815380?sign=gAAAAABmKJFhIIBIqK5S9T853hK3hTO74FuZXA5ZbwvmSKJBe50b0rhh_3OnwjGj_oO_1MZoEqsQbvzO-YpB_YxFJtnHZMjMKf3SH3tezYBdUoqGDiy1eD2JOOO3ruc6v15at8NN4oKDR5pvN-tJpioH94V7Up8y9v-vuudWmoe_g0fx3elosZxcu5vjSxtIqEwnMtDusAywMMNVeK_49SPczyGwUJcwHw%3D%3D
+
+#EXTINF:-1 tvg-id="五大联赛经典" tvg-name="五大联赛经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/338/202304201403_1681970538994_H169_1080.jpg" group-title="体育",五大联赛经典
+https://livednow.com/migu/780288994?sign=gAAAAABmKJFhC12pXnk-Mn8tvwcyaLroASxSfnznaUN7Vwgdq-TbHfnrOhp6KhEmr_tzRNxWHkjYaZdIy3u9qKVdnYSWpgzok_dbp6FacAdx6cRaUEkgftUxNN29OJmm2iOtMTkPb3IeqJ4xSDOnri1vhizxdBLkPKh35jbWU5hhuryYsR0RF-02RZsE_qZBzjdcM6BKnF0fm1-7s14evIvCN4ARxxZRdw%3D%3D
+
+#EXTINF:-1 tvg-id="CBA经典" tvg-name="CBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/526/202304201400_1681962688794_H169_1080.jpg" group-title="体育",CBA 经典
+https://livednow.com/migu/788813182?sign=gAAAAABmKJFhef9QnNHSNKyEEogyHECGRHHtky0oppkhRfcHLhyBR8NEEHc3SILRkqCJLc5F6-kW7_kt7ijRWMnkTUGfV9fSrrt-hY0QcjTjc-TNbRu_tAuIpl2AGxGgUhHScmoywzE4yHWU4_kWoUFJD40dj1sv7cqiETAWSngCG_-ZQJVSl_SjKIuYoWiOAc39_YiwIYqH3pISF4tEl9jjnVspfITX3A%3D%3D
+
+#EXTINF:-1 tvg-id="玫瑰轮播台" tvg-name="玫瑰轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/530/202307191130_1689737336237_H169_1080.jpg" group-title="体育",玫瑰轮播台
+https://livednow.com/migu/788816794?sign=gAAAAABmKJFhA0dHMJh3puhJd8JP-rq_bYEAwoAiyG3AqYT4CyEZKGEgM7B49lgzd1d1nhwUcZ6XjpHsV_WErQbyfxJwYON8oJM_hOfoOrKpLs539D6vNY3sde3pkD5IbeAmLveKsK2lmi5Cy6zgYt4yT82wMZ7ymkdfqTJ6Mi9RK-6w50rwAB6L4NvEVZ__O3JQQJSdnxBD9AOHfNLrnazzQ9-plNZsfg%3D%3D
+
+#EXTINF:-1 tvg-id="UFC格斗精选" tvg-name="UFC 格斗精选" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/534/202304201406_1681970735785_H169_1080.jpg" group-title="体育",UFC 格斗精选
+https://livednow.com/migu/788818804?sign=gAAAAABmKJFhSCZbJmsi6ueK-2FNfiw4oYlSrEiKqVqM25snGA2sZb3Yqxps-ygATHjwtzOvpxjpE0X0cBlqbor4VF7eljf-1mS7PKpjuzVJrV5fDY9YMq7plCJXIN_8BLvuOAwvqCwK1eyugyyf2ItrXPubgsh6eMIdMcL_CCglkzp2kebsHAkt62YXyBeJvSfg_RrZTgFZKDLoqOQZ8WL7zFqkaSzRQw%3D%3D
+
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://assets.livednow.com/logo/劲爆体育.png" group-title="体育",劲爆体育
+https://livednow.com/migu/796071336?sign=gAAAAABmKJFhRw-jAPGEM418ILkVo8vCrUkPDITgozSSihQaho_G3uiOYS0eQdyVag4KlIV4cSbvZ-zdgHGJWcfcLib2YcM9RXDosHn89ZU-X9FU_D5LegpxsbX-jfTW6z-87jbWXgrs9NmZ5uU_Q8PMh1GqmdfkuR_v0Mpu-UTv5RyfOEepM5-kKDqHJmLQ_nnPPj2aK9LAAtmcR3JhdFvZbKHkfvU05Q%3D%3D
+
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://assets.livednow.com/logo/魅力足球.png" group-title="体育",魅力足球
+https://livednow.com/migu/796070308?sign=gAAAAABmKJFhXHnhArP-DwIdEhcFSKxdVKsWQ7TGqiZmQAqjtlWW0uu_JccZapfbS9ZjdhGdILiQnAkfyy6deQaYZMSJqBwd-jsFcEygiILwFxPUB4Wso6L4UADH9v0ZJzTmklc2yWUx_6eGrywvvans0bG1o9Kmv7QzzhMEzWfMTzVdyQu0SV0GhLyqRzYZGII_pMjwGEDzrpVw422Z_95zLvFwzlOfcg%3D%3D
+
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/592/947/202204010047_5101034296_H169_1080.jpg" group-title="体育",赛事最经典
+https://livednow.com/migu/646596895?sign=gAAAAABmKJFhNUtimXxRwm6DRhfjjOn9XXRW4GH956_RaACn67bbpJ9YxmiHi9Zw-eVd6i8BliIqSQvwI4vteQc-xMuGpu7YGGov7DZlnMXn1pPGnT3WCCaXwd8bQxuBJuBSAPsiEiuaVxSfmyi7EvFQK7Jhtk8w7eBfXnzZlAW4fFB9ttFeibXbYJP_yclVzi3RSpSApvdTAnpAf5TjpmY2Ysmkd-MESg%3D%3D
+
+#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/341/085/202308221004_1692669748086_H169_1080.jpg" group-title="体育",掼蛋精英赛
+https://livednow.com/migu/631354620?sign=gAAAAABmKJFh9BcDOsOifeBPXTyJrmMg6og5jDI0kuBLmvJpmVJyB_NVP7lAuvRc4wrrgE4Gg-gt5sghhigC9ihwHpB1CWRvz73dEGxJwfcerxf7O3Kt1Ekwan9_Af29Ys6ODocUotjgyJzBdJtIH2hBvgtuiqJdxos34OqtYQSy4iSCbAqsdNyW4s5IlUkEUOjPPGdDRgJoVYYkvflbC6qAPD3pWNFm5w%3D%3D
+
+#EXTINF:-1 tvg-id="全民乒乓" tvg-name="全民乒乓" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/532/202304201408_1681970854549_H169_1080.jpg" group-title="体育",全民乒乓
+https://livednow.com/migu/788818045?sign=gAAAAABmKJFhgp9EZNj63_577zsVNTQEAPI3FqwFMvZ0CbC1QwXKjSWG4x__9noU2xkjGmanactTZhWE8Ww0NKIjLINv1COhSfRDcBff_Nj1yv6bEYOqTqAwyI7YE3Ozd442jvKwL2CJKMorwDQK_lpyUHUPj4IP2u_Cq8JEAXpw5_Hckcs3VLk9Rt7mbqwPo5CC1MhApeeBIQw6Nvu32ff7YuPJUbrKZA%3D%3D
+
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/687/202204010048_5101034219_H169_1080.jpg" group-title="体育",体坛名栏汇
+https://livednow.com/migu/629943305?sign=gAAAAABmKJFhL__CEX1VNd91CwErT9dKZlg7we_ReG9UX2DBck9ixbQ_wECcnUiOlYiYx0VYxm30bLKzuR808dq4C2nU7I9LapOR0ByIi4MMwVn9wfK26nPQ6I0Bu673pHLYznA1CMDlRkm1OKXQTFQYURF0fL19FfhgZui0zW2WUUdU5gKRIWKC-qs2h8_l6aqv1vkagUD_T6kmB3btEJfZFeiwTLJ80Q%3D%3D
+
+#EXTINF:-1 tvg-id="英雄联盟赛事" tvg-name="英雄联盟赛事" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/336/202304201421_1681971665922_H169_1080.jpg" group-title="体育",英雄联盟赛事
+https://livednow.com/migu/780286989?sign=gAAAAABmKJFhu1JRZjo5kQEcTFnQ6k1ASFt3bGaXtTzNty2Bk4P4Ms4tPQAfYb0tHZENRdKdEfFPykoPrPBBFsep3L5SCm35tSLGyGFTDGn6zukIZslsTPvLAwlTcD_-n293JvwOgIH0I5KaqF58rcNP_phpdT1lJST5EYj5IMCbHYIgvrfW-lb_QpfSmS8qKDZAmBFEwvQ9I1YqGkCDhJJxHTj-T7xtMQ%3D%3D
+
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://assets.livednow.com/logo/四海钓鱼.png" group-title="体育",四海钓鱼
+https://livednow.com/migu/895358641?sign=gAAAAABmKJFhR_JY_wqyHthgMCn2p6CVeVvLilughSeGwd6FhWbA8TNODec77beKRkXWbsCqk6318k5q139RShuHpfBiLoemTYK_jEB6FZqg5ggjvXbsf6cvijBaG3gCYr9hRmcMwGX0HSkxEi_hJGDdya3CJgo_SE9N6nOUeJ9JncotocFUHKHl8kW1cz1LLcuYHmJ5DZPoTYdMtpPYhcCOFrOdf4LoDA%3D%3D
+
+#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="体育",咪咕24小时体育台
+https://livednow.com/migu/654102378?sign=gAAAAABmKJFhUvzBRsOY9QX7uGfEVfo4vwxF5FamEg0VtnSVnWY5x81O5PoSecmLmmqPCJbAq8rcG9MTgwtaunBsAt1N-FIwMeleLTQsEZxNK9pBrSiKxvYoLPZAFf94CkrL2rO4Tkb9Qht-gyK35oZvXL63OEmJVgtf51ayYxuaa8L5dtBZBROg8Z7Txunq1wzHyBCCy0rEAYxOC2cRvf-I_XTsJfAqFQ%3D%3D
+
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/587/202304031402_1679995024774_H169_1080.jpg" group-title="体育",游戏风云
+https://livednow.com/migu/790188417?sign=gAAAAABmKJFhjkfI3rK5wcRa6mrzFO3tEAIWqYHBK3MMayxHnEmpjsRe98QTKW6P96Pd1n7x9cbRJHBLt9Rl7sRrNIYdC-HRJ9d4N7847DA8ISz7uJWqi6BngB1Ewo7dLvXYAyCGZStZuhjbtHijyvIKeMQjNZ0u4GiCJ1qfZvRxBsCh1rHCgnBRPfnjH0_CX3nM4XPySI-e31KY0R5BQ7Zi0FMMm3cNVA%3D%3D
+
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://assets.livednow.com/logo/上海新闻综合.png" group-title="地方",上海新闻综合
+https://livednow.com/migu/651632657?sign=gAAAAABmKJFhTni57K303PM1T6P9TeRnCycTyVk7pHmPfoT-wEMVVWe2sH5fwscv7A4EU8XL6vLqr-JH3kQpi2GKNHUi4gaeGS2j0udxzxkMyeJgbhOiKSHG6Y3taKjXZoBIlnUnc_06bZTO6qBJz3ThrYdM1NL2RAvEyx_w5nMuxf19sYel_HC48YaTQdWHWlVl8TKz40xW3yM3ibHPWcnsxJFmPzlV6g%3D%3D
+
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方",上海东方影视
+https://livednow.com/migu/617290047?sign=gAAAAABmKJFh99jH59dIeyLjK7oijOiPEWnf12jXN0EArM9l7pY0-Xg-a76VpzJ-zXfdT6YqxQAn2lF_cL_BAydoIuJXGxH61V0K59TLrQdJ_GKF06XExE4cD5jWr9HC2MPEBMk3BLGDhXlLSOEg4ZGDc8SF0qhampNv406pQ8Q5wng9ebGB7W629vPwvCDTnqqkqfikBUwlyhHWmUxMr4OSuBPR2Xl0VQ%3D%3D
+
+#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="地方",上海纪实人文
+https://livednow.com/migu/617289997?sign=gAAAAABmKJFhmEO2RyzXvbg3FTsLNi-qgcmZwufAQJesMHqKO0I3JBk3gDIRU0Rvpzc2uox_bW9HAcBPHXJMXAVFFXqKQn3ITiGxJDuCJpbj-S6wG2IIYRx0Gzp9dN1ML2SOyMfJpVWRmQYU4gLgZigPtaY1OsT19iqavh0ApU--v0QoShaJgvd22LJbNj-TdZCTCItnStkSbp3-WpveIIurJ1es1xSMmQ%3D%3D
+
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海外语" tvg-logo="https://assets.livednow.com/logo/上海ICS外语.png" group-title="地方",上海外语
+https://livednow.com/migu/618954688?sign=gAAAAABmKJFhMnpmskC_s45mxuazTVoTrfRJw0l_j-jM2i7XzROyUynWKkOMiWu0V6V7KL4sEUKGZSwm4OeOcB4Asp5yS8JLDJAXVsyWBZak06J477MBS2a9rG1rXWKvHo9rHeARhVF_U4oA5xHHYz2TsiGCaaFFBr6s3k1Mh1MHgLrjuKjOF1-9AUJZfwvqgUzrhOHRpPlGeDScUc8JElUd2iREAeJ_vg%3D%3D
+
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="地方",上海第一财经
+https://livednow.com/migu/608780988?sign=gAAAAABmKJFhYPBwp3muV45mrZumiNCmNnt2-iQyjNMVnkAKDkr9SAcp_kWKbErMBk-ctPH2h2j9lphk_M40rav0Pxd-iw257Jb_CL4Ae-VJZBD42dhKrAIJPHKHk0u0v-0NhGHkrjHm6CsbGwjIaIA26WqdWLR7hwutcFh7GVZWhLeKLiZf_KEPfUPRMf6HPs4lDtf9m4aelaKFXZUDdNdfdSqewQaJFg%3D%3D
+
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://assets.livednow.com/logo/七彩戏剧.png" group-title="地方",七彩戏剧
+https://livednow.com/migu/796071456?sign=gAAAAABmKJFhYWeMi_gD_TVCoZWidvdYC-_aBVxOHXT53RyYfWBEG6y-PEeSjfNITBUT0kw_-YpdrIrh_UhdWBtB6BHXRTFPc2IzhlqvAaN1W_nkCWYdU-wqyq5i77D2H9qdV1I5jqmR_HIvvs64VX3kg2EAAcyQgdf7kGDhgGB-aqYzq42MWFYCmoloAl1SeWBSDyGC1Lo2HRHdWYwEBqapyDJvE0LIOw%3D%3D
+
+#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="地方",南方影视
+https://livednow.com/migu/614961829?sign=gAAAAABmKJFh5MNPHeIE5-mPInt21sYyH5fosTNMm9hv4QZo64buAcV0QonFuvpQB921BvxnJi_zmiKPSGc-DIcmmQWqj7-uds_GOm9Ynf9-f0uC-1uTmWYXVMAgiPd72YDF4F5B7fj6zH5LWFhU-XXh1t3zxmHyMEDBSrLXIoKWzsYaHkIhbYRY1bse2-ouKnvdlGpQw6mFt7lNmHtx_2d1NwtGSbOt5w%3D%3D
+
+#EXTINF:-1 tvg-id="南京新闻综合频道" tvg-name="南京新闻综合频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/863/202307121521_1689144286039_H169_1080.jpg" group-title="地方",南京新闻综合频道
+https://livednow.com/migu/838109047?sign=gAAAAABmKJFhuCMf3RlfFN3gV_e6IBDSQNkHDsTBVXHUGGzBVl_1XNrU1bcZCg-xJdGF2ow2XVdsphOi-HMc2JAwcud707IwQwX4Yb6uswPeTiPWCFFWBT1pCTqsH8qjWfrjGx_Le7iSJ1_EG9G-rGZ_iSm80K-fdGbwSQpeKk19EHEwJCgi2qytl__7iPwUgyVXTMTeEBvFB23R8ddEuwB4hy2qjH1QXQ%3D%3D
+
+#EXTINF:-1 tvg-id="南京教科频道" tvg-name="南京教科频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/865/202307121700_1689146721503_H169_1080.jpg" group-title="地方",南京教科频道
+https://livednow.com/migu/838153729?sign=gAAAAABmKJFhJ7Sd27abo6K_drMSa3NaTzA6zPDWJ274ITs3hbYYBYVyyby3Ba3o_UKnX0td-Xt_-w-1ALFGb3_JyUgOTtZIGKTtr6byiR5iPXOWLRYAMmRJPckBsnU7T9IrT7Z91wrotsZyn9gwsE-vj2jz4w43pQu45okEsOBSXUHpS24Eg6q895LcYVGriXXcbdVWjREvWxEKTtXTQ-6xQn8cxJ4Hcg%3D%3D
+
+#EXTINF:-1 tvg-id="南京十八频道" tvg-name="南京十八频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/864/202307121658_1689146982273_H169_1080.jpg" group-title="地方",南京十八频道
+https://livednow.com/migu/838151753?sign=gAAAAABmKJFheFPey090EOuUbseebeBLIV3Zq1y1FJYLATTINpjobdr0q__Y8bsedlrzWb0ZZ5BkDvhkVfJjFKzhTUu4FzNyVfQSaMbMs0SAYmxOjbnuh0cFKgy-TmajOt3LL6Xry_a3B-NeZuqsbvJF79eXBK3UruXZ6ZEEkAkMN3P5U0EpsaSBoEFKxDMGitZqn_ghiUPHgxAEGTQd6j7fvpmIUek56A%3D%3D
+
+#EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://assets.livednow.com/logo/江苏城市频道.png" group-title="地方",江苏城市频道
+https://livednow.com/migu/626064714?sign=gAAAAABmKJFhajd55RwaJG-6Tr2dJLiY8nLdpY1Qnc14X4yUFWzCyb_OHq8LKrzxtOvlBx1H2qBRa5hgnHqd7f_y9VMzY0kVFm7xL5dvNvE9XNBE-m35AjlB4Aw7NzLtC6-bLCAefI-6b-iWJ4fLLGi9AmYnH9SdMWU06mhysX0YylPhzG00WpDKK6Nai1WLakYoiR8svG3oxFE0SR7ubvRc5Sl2Ox72ZA%3D%3D
+
+#EXTINF:-1 tvg-id="江苏国际频道" tvg-name="江苏国际频道" tvg-logo="https://assets.livednow.com/logo/江苏国际频道.png" group-title="地方",江苏国际频道
+https://livednow.com/migu/626064674?sign=gAAAAABmKJFhUMHALxAlH9Dh-Of9Af6hOnPr7zeiwgVTEAqzuSPSzC2A-SbfSqIn7OgIXe5RO2MGFTlxIBaQn7zfR5D_i_XvVJ0uRF8paMs3ZEg86dLVS7v7QDKFhCUxhZag7bidIci3csd3UlRo1mJMilskK8YC2DMULAg3Lfobp_N4dQzqrVMDNr_50Phm9q68utR0aQmFreLWX6GsJjuoIoSiWHOCWA%3D%3D
+
+#EXTINF:-1 tvg-id="江苏教育频道" tvg-name="江苏教育频道" tvg-logo="https://assets.livednow.com/logo/江苏教育频道.png" group-title="地方",江苏教育频道
+https://livednow.com/migu/628008321?sign=gAAAAABmKJFhSKMxX4y0aO6qCQidZvYfGPbuRUJ0ytgVU3FyRgH8d0ZOlj9zXQZGIpWr07CAmfCK2-bPd9KT_n71nT3BLVrwiVH44S67LgLbUYa6gEJCrrevdZNKmD9oJLlDTytgzwdtC7ARksplkWCCBc_2_sX9ut3wWNYoGadPbkwqd7NIMOmKlZQbp_uxbHktZUTG18HhrIM2iWFMFDThalbcRvYqOQ%3D%3D
+
+#EXTINF:-1 tvg-id="江苏影视频道" tvg-name="江苏影视频道" tvg-logo="https://assets.livednow.com/logo/江苏影视频道.png" group-title="地方",江苏影视频道
+https://livednow.com/migu/626064697?sign=gAAAAABmKJFhhilpOgJuv_WfNkSr6pVusZEhEATUQIQCSuLRi-UnAqn1UCk8wLjwnsNUdpo14oOeA_u1FoSf0X-Y8PR3EbbNdzjfQkOLtgkKzlnISMqENwn4r3ZwAK8peFSOOjVLXAQulj5e-N_ItFPcfAq1_7zGVK-e9xhxfeNrDdjnuLd2wNJX3F8yhMx_jnoNe4bQN7SfBDFnrJ0wgw01jj4D9Ye07Q%3D%3D
+
+#EXTINF:-1 tvg-id="江苏综艺频道" tvg-name="江苏综艺频道" tvg-logo="https://assets.livednow.com/logo/江苏综艺频道.png" group-title="地方",江苏综艺频道
+https://livednow.com/migu/626065193?sign=gAAAAABmKJFhX4dWPAIYggM2C07vZ0YCj9MhxHfWNUvAD314TKscLZUP6aKm9rLDAiLl-KCuFlI5pcDKOgPlcHim8k315Ir1B_xyvDqXpKEpsQalLoWjnw3aEtMcGrYPHKKOqtlQSW1qU6pQizSPuje7a2WO0mqRuTaWMyv6fhsJqHRm_CKnpSeiWTwXqrOlAPkGUZIWEtCeLMnOGeVlZ2JE1nJNz55-CA%3D%3D
+
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/369/202104022140_5102012621_H169_1080.jpg" group-title="地方",连云港新闻综合
+https://livednow.com/migu/639731715?sign=gAAAAABmKJFhsX2evuZqEIncjRaDdLTXCcCci-yYu1E69qw1pIS-SkNUcjScaIESNtUwqC1N6iXbyKqbW9ax2IKZOSPVqPB18-GawOm5psb4bOFSpyv38UQIZuht5CIJt0zi0VIhn3dza1dGRKGACaJ7o9zX5gkXWmGstEZzViifREa_AVy8Cky56R-8V21kdlDv9sSGVZ327LLwWDywinUv0qDsRCTwzA%3D%3D
+
+#EXTINF:-1 tvg-id="江苏公共新闻频道" tvg-name="江苏公共新闻频道" tvg-logo="https://assets.livednow.com/logo/江苏公共新闻频道.png" group-title="地方",江苏公共新闻频道
+https://livednow.com/migu/626064693?sign=gAAAAABmKJFhezPX6P4sgEiwUgG05KQv_qqUFV1nyYXl_0KDUSqQuifzJjRCiG_rY83TUrWKYvjA09RCBX4AL_tNpCmhhZqxsIijmC26IGjnqrtTZO_qWH6Z5PgxfW8ZEY5aPDeJImMoE27yv_P9rKbE6i1JQs4GQf1GqAa9teO_VxIDZpEDoK5dT6fPJUX7-Eii3SjMeA0AjiP-yx6MPpbqAsk4qBInMA%3D%3D
+
+#EXTINF:-1 tvg-id="淮安新闻综合" tvg-name="淮安新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/363/202104022141_5102012618_H169_1080.jpg" group-title="地方",淮安新闻综合
+https://livednow.com/migu/639731826?sign=gAAAAABmKJFhmokCPa3lFmr4GrFwoN-yWbVJaXRg-7WLUrWgUHBkUC18YNZ1FPsqtsNVuqjUeyxxCYHe_PtVVec6lXqf9U_IZozl78w8_1Q9ypkXubVPm2m-5jSKFkveUJb1Rrib2YXAM-wXr4UUbPTr4zNJwyyo0pXJBbDGZhk_pfVPu2JNjRolO8dcQwMNNcHb-erE4BJ38zLqKJYDRJFYamFU46uQfw%3D%3D
+
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/346/202104022140_5102012610_H169_1080.jpg" group-title="地方",苏州新闻综合
+https://livednow.com/migu/639731952?sign=gAAAAABmKJFhg-SvtYNsEJgtft96foLLPjQnjLnBUsr3tynWbWo9u1ajIR6PcoiR7VyCGrr45Gu4XQsPrAsCBjB1YjGW_YWN040ULQWV3_adV2t3MryRKDszCIp8SWgczSWZwC04MHlRmK_jElh0RZRScaRgZ-t1njmFyuXSYTCaPvGNWb32OLU6-66JIgEMeEeDImM7Z1zCWcfexn1-LmnS4DhPOkZwVQ%3D%3D
+
+#EXTINF:-1 tvg-id="泰州新闻综合" tvg-name="泰州新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/354/202104071213_5102012615_H169_1080.jpg" group-title="地方",泰州新闻综合
+https://livednow.com/migu/639731818?sign=gAAAAABmKJFhLoN_NqKfDXETrMxpNfXwhzL6isv9Uyu5Oz5ikCefTtHkaoFvMp61gFt4RbDprZcoyGVsj8e8wHSTNrUbE0zYbRG43Kcqzrm6Rp1pW5IVeL4uUrCGbcK28OXf1tt6d8WLUtYzxDp0U17biZzB_ecr68hLnOY0UkUtRB7Zf6Ge9qOhpi6ZO6BVm57HLi7mzbVlEbZDVt55njKBgIwBRy-1JQ%3D%3D
+
+#EXTINF:-1 tvg-id="江苏体育休闲频道" tvg-name="江苏体育休闲频道" tvg-logo="https://assets.livednow.com/logo/江苏体育休闲频道.png" group-title="体育",江苏体育休闲频道
+https://livednow.com/migu/626064707?sign=gAAAAABmKJFhgtKj8fezK8elWEPcjvXXEFAmqLJqq6EOjVUJlZetXq2Znh82yg2AI10drP8-IUeUc5pKmcU7LRYIBQ7FryH_SJGIYA1nPaA1NxaU7LlAldno34SnRG8uu_6jYGz3yaxxayCScCDvRdZAybVL2My0NU7u6gRHQqNxg7vOXjuWKWIisqYaDqgXi-8mgXOthuzXZkyhZW_2INl4VOHtFV9xug%3D%3D
+
+#EXTINF:-1 tvg-id="宿迁新闻综合" tvg-name="宿迁新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/357/202104022141_5102012616_H169_1080.jpg" group-title="地方",宿迁新闻综合
+https://livednow.com/migu/639731832?sign=gAAAAABmKJFhmwPucATgH5i-Ix_CitFC71R8eaqCdBVxOXX0Tnv7iZbEYYAMPJDy3EDj0PNnQy60odXHh92979aVYTZU4iK5S86_WrkVOa2sPPFPS8kqWwUiG0Xah0zI77NI5mCkA5c1TqeASkEnn-V85OU6-pX7c2e5i3zwzUVe2ThFw62apdVdF2YGVNRTJr6syWZhFe0dpx7yYc-nOwfoIFSo1zOlEA%3D%3D
+
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-name="徐州新闻综合" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/469/368/202104022141_5102012620_H169_1080.jpg" group-title="地方",徐州新闻综合
+https://livednow.com/migu/639731747?sign=gAAAAABmKJFh7GrpC1z1iBo0SEjQwGtuNYZ8b2KhN_UI87Tnzose0eJwDaQrbORIYwse0g9j1Ja0bMCUCESkLJCVVitf6frA0V7JD3_Ug1ftU6IyZD8fpTvGRBolnoRQaQ9igLKamwEtMbbfSrimYnSmTNDXvKVEitpOl6ZN88YSC41TMZrXV8S5892NyF3AkUg6TTr7ZGDXJJ96dScY8osRJl62jqMCBw%3D%3D
+
+#EXTINF:-1 tvg-id="临洮电视台" tvg-name="临洮电视台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/991/922/202311271600_5102754317_H169_1080.jpg" group-title="地方",临洮电视台
+https://livednow.com/migu/668225749?sign=gAAAAABmKJFhAyh-KuSZFJ4JYU1ANUgMfo94LW4EnecVt0avKXo63P3qVzflCDMGrz1wLq85AGeZbFJo5gmC0Q3lg-oADTepgLnXOEzMcMs8KGfpEVI7oqNMwuEUt02efKgLrui1SRyZfrrny41XcfkxxxfuwzO5kOla3kRWF9U07DYu3e_SLhhEylhNKpATVcasO3QqXB1I4Lbq8JMdAsEyvEmtYbDbPA%3D%3D
+
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/242/089/202308221005_1692669894186_H169_1080.jpg" group-title="影视",经典香港电影
+https://livednow.com/migu/625703337?sign=gAAAAABmKJFhuWjTHvuCvqlGZdiixxSmZrEoHx8CIoK_xMXRAl2EHDKatynvp96iTkgr19L6kyNF5HqtkiMXw2DPkZg3zLiTSUlwRPrSHgisfxmakcoaAC_1AoaPw_jZeEWyw0rDrokt4Syc4zvbAxaoB4_yVXfdehoSqGZFkDSnvKZL_xlOzRE4UrxGFfmXUDPZ5m0SzSizHfyzb_7Wv6NrS_ZBjAviig%3D%3D
+
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/035/175/202308220954_1692669269895_H169_1080.jpg" group-title="影视",新片放映厅
+https://livednow.com/migu/619495952?sign=gAAAAABmKJFhZ3LVihj-iAhXMxrmBBb1CdcFkenSvhDFMxInXIjF-HVp37XG7OdRqmID5FYU47_9O93WROYxZqdoIBWAXJ_mWc8cAH1XiEebAvq10s_u0dpQJ5u2GvkgminvxghIr-k_JensY0hrpdRzwWLxsWk3MtMLJRGhrEspDBng1zRnz7w7uNcXtOa7gJVIQzsWrvAtmI7FYu6eQLOy4aj_-gGGtA%3D%3D
+
+#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/684/202204010048_5101034200_H169_1080.jpg" group-title="影视",高清大片
+https://livednow.com/migu/629943678?sign=gAAAAABmKJFh45EQO7IQN5yjmdOH0nrALfJFdZ2eksvwQp48nkCbP5bWwE_H4Of7KWnncBOrwSVr1Ob-3KG3CG_seO63qhMAbB8FU89M9x2yJ00_Iq5O1TZXP5FE-t_bet4CQOb5nVsJPxcJjN4sF6L1tb-x6nJpG1ULtdxz84fgHXgN59jorFU-nzSmGG4KZco7dKPOEIHeU4u93-D-rYRTVaSO-V8Zwg%3D%3D
+
+#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC 动作电影" tvg-logo="https://assets.livednow.com/logo/CHC-动作电影.png" group-title="影视",CHC 动作电影
+https://livednow.com/migu/644368714?sign=gAAAAABmKJFhL0ws3BDycaGTDgjjuUS8htu1C3KSzlosl-Pu5kFXHjcJQ3b5RSPF2ZiRvslUtoK-A3IpQoiWeQszx6tqSiAPuFJ-zZlaKPJiDkuWVnwmAUj6orhYoA_G_qZE1ZbTTIRgQ8X-UBCknEnMdvcJxwujREDaDwx88nHSY24dSz1x_p5Jhxa1M4slYwAgOrShspYKEadXPuVN5Cx_fNIlXqN31A%3D%3D
+
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="影视",CHC 家庭影院
+https://livednow.com/migu/644368373?sign=gAAAAABmKJFhYvdiScYnIpspgxzJZcfQazYfMyi3ola2iocr_bCVhUZKyB4zinOSuOHjJwrxcay2hqwc1SBIXd9AXkmNJJNt0BRWc3isthNakJ_XWAbVqyglACtqyD7myod5yCISL6jOYWhxlJ1gLc0IKhfFBynUpjzcCNw0n45aFrwpGtAQtjpeGA2y9Q8KS2aJtpe7l56M9baUDsutr6Gw1V5uuIETBA%3D%3D
+
+#EXTINF:-1 tvg-id="红色轮播台" tvg-name="红色轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/527/202308220954_1692669225860_H169_1080.jpg" group-title="影视",红色轮播台
+https://livednow.com/migu/713600957?sign=gAAAAABmKJFhYlq9xD2_nPgU02f4ilrPjufLisQqeznRDoHqzWXCPWUldyK4c1guhrF8mTStLGb08JHwimb-3hPZWvZwXUUtM292NVPn8ugTSZXha1eVRVMWACAfDqhuJ8wCi1tRsTvzGbC95XMlbCHl9kmid0XetHNiEDFiUD8wbrWocYczDyWbrKVGGoOFpoujd-9EnHucHUAKs4bK3WF1tMnIQLsQ4w%3D%3D
+
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://assets.livednow.com/logo/欢笑剧场.png" group-title="影视",欢笑剧场
+https://livednow.com/migu/790187880?sign=gAAAAABmKJFh9pIlUXsUX06TGqgMjEouv9gufrb1lsfSoC5Ppk4d_oo9ZKQjVxOctRGNLwStvBe0S01mM-WFbjEpPu8O5l8wE7ENKk4z9QoTQ27hJxbzyZpmFX3Q5KIpnnjY-E_FVskWIM55VDRyf7-Ut92TKcTPpRBxeWpJdOth1Pd_S3nhsoZjgbpIsCU5UOXNI9Suet0EDkAxnLovwkpYr4oMprfysg%3D%3D
+
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://assets.livednow.com/logo/优漫卡通.png" group-title="动漫",优漫卡通
+https://livednow.com/migu/626064703?sign=gAAAAABmKJFhOr-348XNSkipV_YoALxGouLqPhNOfPBoYc8ayuYSEPM7AQBv2e7nHzCkD-KL0Ji4jJ-SNShF_vPAiN5iRufWgNJKz1Ob6DP4-UMqar12EcHx4ue98l9pMSpcZneDhQZ2L8AphUHDsHbeZsF0TLgySeEpST-8cDShP4XhPMqYY9BFU73t9670BCTszDBenXJsHdA1QSLlDW6dNkzKuzseOw%3D%3D
+
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://assets.livednow.com/logo/嘉佳卡通.png" group-title="动漫",嘉佳卡通
+https://livednow.com/migu/614952364?sign=gAAAAABmKJFh_wYglEpVOnKm8vHzvth_MwZdvzfERZgX6bBPKtbrZgXoBgIX3kW6AZVhnQ_xZXlgNAMkm9iHuzzBmX3FHm2hXgX7nGsqZrmQ1aFgUXBWAqxbGkZByJ8xEzpHHRSyqU50yvTWRTw5KBHsxWKtw1Fv0jJVvFLOhmujkfs5YfDzJWfrmjHoMJMAdWJdnICh0V33RybHo9hCU5DvCwv2trkzbA%3D%3D
+
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/315/652/5101034205_H32_sc.jpg" group-title="动漫",经典动画大集合
+https://livednow.com/migu/629942219?sign=gAAAAABmKJFhnzwzeN2HJEGvXiU5OTdjCHENyHEf6CLugg27pmueBQPCA2B-vxddVDz-NTv3PxLVTwE0gLqlZSt9RLsmXtmbVDdL83mg4gDN6jIguBYWAIdQPz838cUcYrr57FM2LCIvWWast82x4Wxj7MkJOiiYHRrNCjLPaJTpbIhqHs0W4-ExWCl4t8zCkfL-VmRs0mowmDLsk-hSZ7UNBdAvy-k3Cw%3D%3D
+
+#EXTINF:-1 tvg-id="热剧联播" tvg-name="热剧联播" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/685/202204010048_5101034211_H169_1080.jpg" group-title="影视",热剧联播
+https://livednow.com/migu/629943613?sign=gAAAAABmKJFh-kQO_r7qzjynbf5RUaDlKkg8NMTLdVuxWTmQAU0ZZsRZz52T20h9oSV4LHhCAGEv0yKiJzJ4JWyJ4Yc_NZ1VHxoCuBFlaTyGGzKEBnHWcfaYWu_uwlvuJGLnv7NMmY891lrdmcTCR7wZ8yCpByspCFyZ4ybxNur5JfET2E_hNVeSmGCqi-IOxP55IsH9oyQkxupvbN7dGxx1lJwNt7BDzQ%3D%3D
+
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/315/654/202204010047_5101034202_H169_1080.jpg" group-title="其他",最强综艺趴
+https://livednow.com/migu/629942228?sign=gAAAAABmKJFhUR-S4CWQpfytg1U79qS3bVe1C--zyjg7WOOwuUSq8hl1ZIxgeVKJDmxS2lAoYd2HMODDH5xuqOlpYMinQXKDnEUVl2pXC99iAz9pVc3qB2HYNZ29IT6EZW9wkm0HS-cmKqQsUe506zG6uVerUbzoS0BMWgG1AQEJf75n1_hSR_lK2djlyzaMGsaNakGTC3IB-9DfZth4-QqGf9XoWP6ajw%3D%3D
+
+#EXTINF:-1 tvg-id="乡村振兴频道" tvg-name="乡村振兴频道" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/523/202403211020_1710987589334_H169_1080.jpg" group-title="其他",乡村振兴频道
+https://livednow.com/migu/713589837?sign=gAAAAABmKJFhWUzwyS3XlvJYgzjr_ET7a-aTQjVKn84Os1QpjlOG4oCsGYA3O88nPTUpM6pJI04K4ESwDE9QHmPIUoIVMpgOs_rQnBhJEl5K3tNSz76WHaaPUGd2ysOHgiZxBLUtzs2q7NVio8SmCYxyPTSFhzH9XXfIoxoEkulMxmFYaj3FCH0s-rI2RTCQ0wX0VWwpj_F9cl7F4Otm2E4HIO5r6LsxkQ%3D%3D
+
+#EXTINF:-1 tvg-id="周杰伦现场" tvg-name="周杰伦现场" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/230/666/202310271731_1698399004429_H169_1080.jpg" group-title="其他",周杰伦现场
+https://livednow.com/migu/625133682?sign=gAAAAABmKJFhSr3lR_5pD0kJhjorslm5GnVXrOrL7JVQOvA-Qqg-EEH_nXkihUbOCjJR5qr6kGM0HrMvR1NETSEfyEQr_3-DG935EKDh-cuvU5iLo8V_8ZRA_v_qpCJo0lTEhYXGd-Oc_TZhawfurYRtd3GWNOZ-TdxeEkIKYiZdBXeB3Hx9gH7pEZH7lKTHzSJMTmYO5wIffNkTDH5NghPTMhBoIDE-vg%3D%3D
+
+#EXTINF:-1 tvg-id="华语乐坛最强音" tvg-name="华语乐坛最强音" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/462/658/1711611708759_V34_sc.jpg" group-title="其他",华语乐坛最强音
+https://livednow.com/migu/707671890?sign=gAAAAABmKJFhy4tyBaM-ngF0eZLSQ0u46GXK7f8yK-C0eXr78FntDxRTQNowq0Hi89UhzZNHtkx6X1DKbV5He2TCcWmusAlhrzSces4KH-z5UiU8ew8Lofs4mJmO71wNAT0depyqVlmgrNe6Nm75OmjBtXK0kkJUJKCOdpLGgCntABwhONzYv3MMY6VWlWZjjGz0di9Bs1QtlO6xZ4snax7TXMdO5N9_UQ%3D%3D
+
