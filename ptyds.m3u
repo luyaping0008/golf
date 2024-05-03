@@ -1,0 +1,143 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,https://live.fanmingming.com/e.xml"
+
+#EXTTOKEN:4GsF4h
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视卫视(央视频)",CCTV1 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19590&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视卫视(央视频)",CCTV2 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19591&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视卫视(央视频)",CCTV3 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19592&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视卫视(央视频)",CCTV4 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19593&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视卫视(央视频)",CCTV5 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19594&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视卫视(央视频)",CCTV5+ 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19595&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视卫视(央视频)",CCTV6 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19596&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视卫视(央视频)",CCTV7 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19597&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视卫视(央视频)",CCTV8 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19598&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视卫视(央视频)",CCTV9 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19599&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视卫视(央视频)",CCTV10 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19600&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视卫视(央视频)",CCTV11 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19601&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视卫视(央视频)",CCTV12 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19602&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视卫视(央视频)",CCTV13 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19603&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视卫视(央视频)",CCTV14 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19604&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视卫视(央视频)",CCTV15 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19605&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视卫视(央视频)",CCTV16 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19606&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视卫视(央视频)",CCTV17 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19607&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" tvg-logo="https://epg.112114.xyz/logo/CCTV4k.png" group-title="央视卫视(央视频)",CCTV4k 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19608&/PLTV/
+
+#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视卫视(央视频)",CCTV16-4K 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19609&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN英闻" tvg-name="CGTN英闻" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN英闻 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19610&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN法语 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19611&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN俄语 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19612&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN阿拉伯语 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19613&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN西班牙语 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19614&/PLTV/
+
+#EXTINF:-1 tvg-id="CGTN纪录国际" tvg-name="CGTN纪录国际" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视卫视(央视频)",CGTN纪录国际 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19615&/PLTV/
+
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="央视卫视(央视频)",深圳卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19616&/PLTV/
+
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="央视卫视(央视频)",广东卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19617&/PLTV/
+
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="央视卫视(央视频)",浙江卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19618&/PLTV/
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="央视卫视(央视频)",湖南卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19619&/PLTV/
+
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="央视卫视(央视频)",东方卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19620&/PLTV/
+
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="央视卫视(央视频)",北京卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19621&/PLTV/
+
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="央视卫视(央视频)",江苏卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19622&/PLTV/
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="央视卫视(央视频)",湖北卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19623&/PLTV/
+
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="央视卫视(央视频)",广西卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19624&/PLTV/
+
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="央视卫视(央视频)",黑龙江卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19625&/PLTV/
+
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="央视卫视(央视频)",海南卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19626&/PLTV/
+
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="央视卫视(央视频)",重庆卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19627&/PLTV/
+
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="央视卫视(央视频)",四川卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19628&/PLTV/
+
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="央视卫视(央视频)",河南卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19629&/PLTV/
+
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="央视卫视(央视频)",东南卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19630&/PLTV/
+
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="央视卫视(央视频)",贵州卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19631&/PLTV/
+
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="央视卫视(央视频)",江西卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19632&/PLTV/
+
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="央视卫视(央视频)",辽宁卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19633&/PLTV/
+
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="央视卫视(央视频)",安徽卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19634&/PLTV/
+
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="央视卫视(央视频)",河北卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19635&/PLTV/
+
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="央视卫视(央视频)",山东卫视 
+http://dfkj.live/index.m3u8?user=4GsF4h&channel=ys_ws_ysp&id=19636&/PLTV/
