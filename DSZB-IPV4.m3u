@@ -324,34 +324,7 @@ http://alvin.ergotron.net:8000/udp/239.77.1.54:5146
 http://alvin.ergotron.net:8000/udp/239.77.1.214:5146
 #EXTINF:-1 group-title="央卫IPV4-2",宁夏卫视
 http://alvin.ergotron.net:8000/udp/239.77.1.47:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东综艺4K
-http://alvin.ergotron.net:8000/udp/239.77.1.236:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东珠江
-http://alvin.ergotron.net:8000/udp/239.77.0.1:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东新闻
-http://alvin.ergotron.net:8000/udp/239.77.0.173:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东公共
-http://alvin.ergotron.net:8000/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东体育
-http://alvin.ergotron.net:8000/udp/239.77.0.112:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东科教
-http://alvin.ergotron.net:8000/udp/239.77.0.85:5146
-#EXTINF:-1 group-title="央卫IPV4-2",大湾区卫视
-http://alvin.ergotron.net:8000/udp/239.77.0.215:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广东少儿
-http://alvin.ergotron.net:8000/udp/239.77.0.250:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州综合
-http://alvin.ergotron.net:8000/udp/239.253.43.66:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州新闻
-http://alvin.ergotron.net:8000/udp/239.253.43.67:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州影视
-http://alvin.ergotron.net:8000/udp/239.253.43.68:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州法治
-http://alvin.ergotron.net:8000/udp/239.253.43.69:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州竞赛
-http://alvin.ergotron.net:8000/udp/239.253.43.70:5146
-#EXTINF:-1 group-title="央卫IPV4-2",广州综合
-http://alvin.ergotron.net:8000/udp/239.77.43.71:5146
+
 #EXTINF:-1 group-title="央卫IPV4-3",CCTV1
 http://dms.yryyj.site:8188/udp/239.76.245.51:1234
 #EXTINF:-1 group-title="央卫IPV4-3",CCTV1
@@ -440,22 +413,7 @@ http://dms.yryyj.site:8188/udp/239.76.246.91:1234
 http://dms.yryyj.site:8188/udp/239.76.246.92:1234
 #EXTINF:-1 group-title="央卫IPV4-3",甘肃卫视
 http://dms.yryyj.site:8188/udp/239.76.246.94:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南卫视
-http://dms.yryyj.site:8188/udp/239.76.246.101:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南经视
-http://dms.yryyj.site:8188/udp/239.76.246.103:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南国际
-http://dms.yryyj.site:8188/udp/239.76.246.102:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南都市
-http://dms.yryyj.site:8188/udp/239.76.246.104:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南娱乐
-http://dms.yryyj.site:8188/udp/239.76.246.105:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南电影
-http://dms.yryyj.site:8188/udp/239.76.246.106:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南公共
-http://dms.yryyj.site:8188/udp/239.76.246.109:1234
-#EXTINF:-1 group-title="央卫IPV4-3",湖南电视剧
-http://dms.yryyj.site:8188/udp/239.76.246.108:1234
+
 #EXTINF:-1 group-title="央卫IPV4-3",CHC动作电影
 http://dms.yryyj.site:8188/udp/239.76.245.243:1234
 #EXTINF:-1 group-title="央卫IPV4-3",CHC高清电影
@@ -648,32 +606,7 @@ http://218.241.192.50:8808/rtp/239.3.1.149:8076
 http://218.241.192.50:8808/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="央卫IPV4-5",江西卫视
 http://218.241.192.50:8808/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV新闻
-http://218.241.192.50:8808/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV影视
-http://218.241.192.50:8808/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV文艺
-http://218.241.192.50:8808/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV财经
-http://218.241.192.50:8808/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV生活
-http://218.241.192.50:8808/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV青年
-http://218.241.192.50:8808/rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV纪实科教
-http://218.241.192.50:8808/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV卡酷少儿
-http://218.241.192.50:8808/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV冬奥纪实
-http://218.241.192.50:8808/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV冬奥纪实[R]
-http://218.241.192.50:8808/rtp/239.3.1.120:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV冬奥纪实[超清]
-http://218.241.192.50:8808/rtp/239.3.1.121:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BRTV体育休闲[超清]
-http://218.241.192.50:8808/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="央卫IPV4-5",BTV国际频道
-http://218.241.192.50:8808/rtp/239.3.1.235:8000
+
 #EXTINF:-1 group-title="央卫IPV4-6",CCTV1
 http://webmail.axxe.top:4022/rtp/239.3.1.129:8008
 #EXTINF:-1 group-title="央卫IPV4-6",CCTV2
@@ -766,32 +699,7 @@ http://webmail.axxe.top:4022/rtp/239.3.1.149:8076
 http://webmail.axxe.top:4022/rtp/239.3.1.156:8148
 #EXTINF:-1 group-title="央卫IPV4-6",江西卫视
 http://webmail.axxe.top:4022/rtp/239.3.1.123:8164
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV新闻
-http://webmail.axxe.top:4022/rtp/239.3.1.159:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV体育
-http://webmail.axxe.top:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV影视
-http://webmail.axxe.top:4022/rtp/239.3.1.158:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV文艺
-http://webmail.axxe.top:4022/rtp/239.3.1.242:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV财经
-http://webmail.axxe.top:4022/rtp/239.3.1.116:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV生活
-http://webmail.axxe.top:4022/rtp/239.3.1.117:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV青年
-http://webmail.axxe.top:4022/#%20rtp/239.3.1.118:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV科教
-http://webmail.axxe.top:4022/rtp/239.3.1.115:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV少儿
-http://webmail.axxe.top:4022/rtp/239.3.1.189:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV纪实
-http://webmail.axxe.top:4022/#%20rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV纪实[R]
-http://webmail.axxe.top:4022/#%20rtp/239.3.1.120:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV纪实
-http://webmail.axxe.top:4022/#%20rtp/239.3.1.121:8000
-#EXTINF:-1 group-title="央卫IPV4-6",BRTV国际
-http://webmail.axxe.top:4022/rtp/239.3.1.235:8000
+
 
 
 
