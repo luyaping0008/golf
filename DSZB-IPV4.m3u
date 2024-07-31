@@ -105,6 +105,8 @@ https://livednow.com/migu/738898486?sign=gAAAAABmWcv_g2wxl8rjUVeie-Xx4yNYDcPu4fW
 https://livednow.com/migu/738906889?sign=gAAAAABmWcv_MwrS8kgrQFK8RVWbDEyZidzdDXfYERxl5Nu_sQDZuQj7N1HNDjmvVQbbyECfsLOIky8EUxvjS3mH6MW-pz06yt031ioYtvbaj8TQPRUzBT_x9dmHn2hhOe_InshtWHPY_AR_QHU-hbtUI8KHNrJTBepBtwrPv3sHXi9-WCctNPwoAyg00NEHFpI-3s0O0ao53_G_Hmo58sVEo8dCfHR4zQ%3D%3D
 
 
+#EXTINF:-1 tvg-id="400216157" tvg-name="✦●✦| OLYMPIC |✦●✦" tvg-logo="https://lo1.in/olym/oly.png" group-title="2024奥运会专题",CCTV16-4K (ipv6)
+http://[2409:8087:5e08:24::12]:6610/000000001001/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="2024奥运会专题",ELTA奥运1台
 http://cdn.1678520.xyz/xsj.php?id=elta-oly1
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="2024奥运会专题",ELTA奥运2台
