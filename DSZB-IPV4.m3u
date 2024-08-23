@@ -1108,22 +1108,23 @@ http://nas.hssvm.com:8888/rtp/225.1.2.177:5002
 
 
 
-#EXTINF:-1 group-title="北京体育",北京体育
+
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://sweetown.fun:4000/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
 http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京体育",北京体育
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://124.64.67.6:4000/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://yfaqkkms.zzmd.fun:8888/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://123.120.1.126:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://111.196.186.191:5555/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
 http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京体育",北京体育
-http://123.122.162.250:19999/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京体育",北京体育
-http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
-#EXTINF:-1 group-title="北京体育",北京体育
-http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京体育",北京体育
-http://123.113.248.110:8888/rtp/239.3.1.243:8000
-#EXTINF:-1 group-title="北京体育",北京体育
-http://221.216.132.178:8118/rtp/239.3.1.243:8000
-
-
+#EXTINF:-1 tvg-name="BTV体育" tvg-logo="https://live.fanmingming.com/tv/BTV体育.png" group-title="北京体育",北京体育
+http://1.203.76.10:7788/udp/225.1.8.23:8002
 
 
 #EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA 经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="体育",NBA 经典
