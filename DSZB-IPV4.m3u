@@ -1,50 +1,62 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="咪咕央视",CCTV1 综合
-https://livednow.com/migu/608807420?sign=gAAAAABml7qmnY4_XFWn880kDQkf9Evv0IP3yNnlhrWU5UuyDow1niqhLIIaF3B3EYyp6HV8twefqXUlNyKgYkmVPftZnOQtN83Ttr7OowYRbt_4NP1g7DgbkgPS8gNnOVj78p4pPiO0KY-dHPmLnVBB7iQMAwnkEBbae645H-odcjKXhPWF9a6Hb1mtbv5Z3jJUJIprhQMSiVsGYBpmH1enX9P92p8oQw%3D%3D
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1 综合" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV1 综合
+https://livednow.com/migu/608807420?sign=gAAAAABm5t8YAIUOA61Z7aZZnIjsRJNIvrqb_xbDTA62p-HwYqYUqWL14Pr08eSUgJuYbPs6Hgc9DN-k_l1KlZKB3NsLKZwM5kF7Bq1k6PxbXP1CNKHJgbRlSFR0TbYnN8vWBUqsvHh0TBZDraBF3Pe58-wX1r01Dqc8e0OhZYGV1gjSNzT5JBuMFEW3v8b5ABr2C8-UWy_iZL68TP5Ea0SPBnwsSSzZzg%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="咪咕央视",CCTV2 财经
-https://livednow.com/migu/631780532?sign=gAAAAABml7qms0pb-Ujp9QvCzx4GyR5vzqzZ7RwfV9gC56OuzHIT2VbSJoBcZoA_YgHVs4tsdFClFNVaC33lmSssI6xjONybsmDkklX40_P4OnNZpL6CotuazxT0OizLZJsR5qlAvNKIEKVk38iYL60nOqM_qKnUQ3EfuJj17Z_xKnSbRXhECqTcCd6K6Sl9vKfe7_befpEDoJxT3B1puA9MnP6FOGYwAA%3D%3D
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2 财经" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV2 财经
+https://livednow.com/migu/631780532?sign=gAAAAABm5t8YJzFmxPV8secJka2npZ3nDyWeyhkje_LX5bNLmJOQtG_ods2iXdYaTxlfVx5SOziR705ZVwLNI22zIj_wZS5GU-XTssqNN4ndCgnfzPfev0344iqZS9TdE_9TQ5DuybAS4AeLWsFvIo2gNNQDRINswRJm4WLXUgstwWZQaz2GAus8bZH47E6K8CHAXSaFv_C6EkSnm65jUipqatshdaf7tQ%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="咪咕央视",CCTV3 综艺
-https://livednow.com/migu/624878271?sign=gAAAAABml7qmBER_O-kf1WC_k8gJgR5iTVLC-NS1LWDZLCv6XsGlatdDMLUo_Y-aKAc10swmqHCKgREt8ma22j_Mr3MD_4UOKF2mWK3UoB_FImWLDAy1covdj2aJ_KNBHahQhKOzHdJYMHJyGv2CYHPjRmVFb2rUa3fKakIA4qBWRN-i9f5j6643RAXCUy9tWB-YzYW3ur0rMKRN6WNy3Zr_wjCh-aLc3w%3D%3D
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3 综艺" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视",CCTV3 综艺
+https://livednow.com/migu/624878271?sign=gAAAAABm5t8YJDGmRaVzUBnnmoud8W4BBkcwpfEN5iqdtiglvxujRfbexpBXWyrXB7Zhne8jyOPjIx1uAopMUWkDkKc8kepZal0fWizmDC95gi4Q7y8E3S7WmlZ8wkCJgClfpNFl1vEIKIsqsAEu5U63dRRytLpxGWpvS4AFEWZJ9LI_s2zxd6-SkV4S2t94W2FdAHQrfY25TpytrbIjcieOiKUazrTBUQ%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="咪咕央视",CCTV4 中文国际
-https://livednow.com/migu/631780421?sign=gAAAAABml7qmlXIiHOLFajI8kFDKcfi6auNmnCjkE-iRKbLrmMSW-P_oCFTmLhhzf1j0m5AqUNivAp2vyv_sMsdGqZ6zG5Ez5GIYuEJ9vTKJDf5Fsd-In-9pIDIrB8sNEwNRrzpmigkW8bA_PygFHBCz7aDMJHpJp0lRCsh7H42oKXcKZcEHqihT1soraiOJP8ZTkGAAEr9amqTBN23Sppu03mR8ReMF0g%3D%3D
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4 中文国际" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV4 中文国际
+https://livednow.com/migu/631780421?sign=gAAAAABm5t8YaaWq6XpQ1DLYEs5fGvYuGSHp-Pi90i6KU8uNCDYJr6YT7xLowvhh2d-onXvu5LCYGfzmErMiyzgiNV8APg8dq1h5MYg4qH7Wc-R03i5u1dPF4WzTLeQtJFfOWJeKqXdUxDGvwxZG3Ww8eZk-wB9eIZO7FmFghp3LizNcf8TvgFbLbop08PUbDmg_Qki92ONKCXA77AO31VXIrNMtwkWEFg%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="咪咕央视",CCTV5 体育
-https://livednow.com/migu/641886683?sign=gAAAAABml7qm-Eqk8M2qpagASj1ZmDVYak2McHWyUrNXoLfZ_4DuTk3tOzDAmu1arbY-UUYPkn2ys0cCtYv4jw5c0ZTwpwBrIb-KuB1HqjajC0yCHtrugQsA7FUvLFwuj2erlxxCROgnZA29r-7BfB8SWdqxnYURcSG5mrIkhkwTRJWkdREb0qFG7RQaHv0Ti_4pFhnilivka6jhkoMXH7sXirUUd9Aq7g%3D%3D
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5 体育" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV5 体育
+https://livednow.com/migu/641886683?sign=gAAAAABm5t8Yd826398eBlu45hw142WmhDqLSHnuJsGkXq4l9U3Hj1Gro2k1BZrx_B57jVJMaFVlWMw_heV01kyAFQn2Ol2sfFGQB-wWgEblFtiP5WWxYPF5razA3z_MfUZEwVogKBB51-E4ZvOJ9Zfj2wC8gl144Mi643rZgbon5fB29lfbZ2lW6JZEommQDluoJs1rH5LJ_D2E9RR7du7reuJ6JrguIg%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="咪咕央视",CCTV5+ 体育赛事
-https://livednow.com/migu/641886773?sign=gAAAAABmwtTudYVI4jfMsN0Z9fKcfTElS9rfuC7wnjZFqi9bSMW9h1jLEm6z4Qh7yfVvK7TKDjPylrRRg5fFLKhq4g9YysTXgrO5H-U5HweXuOr4kx2vBvchmamltv0s5FUojvTyoH8SlS6ZyhSbsl84tpMAaPRFNh4Hccbg5Esl3Ujt2cyu-GINrfoRqtZ4twIywq9tpCOTyz3GBTXMqZUjahW6WxFcYQ%3D%3D
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+ 体育赛事" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV5+ 体育赛事
+https://livednow.com/migu/641886773?sign=gAAAAABm5t8YTFW1nqCwGwf23oQufwOhh_ceQccVIp__BiSJpKlFqRACncnlNAnLSz7La7JJIsNekuGyQMTO69pb5zKvjEHloWrV1KqSM2wJtKeKokq0RI2xKlvEDuKyb6lheFvvKBdg3PENNTWoUivVovPmIKyCIGlLhmVpW_8BNGYpoR8qywut9oUEy7avuRokkWAZUeSQrNUH0Zsnk_6oWBoEOPtsPw%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="咪咕央视",CCTV6 电影
-https://livednow.com/migu/624878396?sign=gAAAAABml7qm7JicBy4HVME1s9l3wgXdSUycDwtssE8j8nfP_Lg7O-dPLB_M_WEU2Fm6KO1WSbxBk4SE99Y-2cIpw-lQPI9sjF0tw1CojuvXAJ_6koMl2rdWrpzs6ltXkjXcsGRfEaTxakEldNY1hf0zU4sBqb2dLFQauHx0i-secvGKGxlpibeOGRqxXHw2jff_ky6zSymLuvARUJZibtT7qar33KXZ2g%3D%3D
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6 电影" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV6 电影
+https://livednow.com/migu/624878396?sign=gAAAAABm5t8YBVosmg0gLV6vzxF7v7-fsDuhKCCCg2btaUt0D9H7i8oditmQDIQVXPY2lkD-4d1p3WB8ruywofMv85m1EDVoPbDhi-3ol9SXOiIgJz_ABgn6kRvyEnQJx0PKAkVCJDijI2VtoHZao-E99x5GJN1bApTSk6nXLyMaWBzuUkks0ppVDnqnTIkVFRcdbuojrA6-c5AqJT3XBgGsm6JhVbDwMQ%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="咪咕央视",CCTV7 国防军事
-https://livednow.com/migu/673168121?sign=gAAAAABml7qmn3me8i-XwWtMfd5gVU-SyaXPZ7NEIIrLocPWHNN5TtYBvvp-yBRF5IYv-OuYpnY9i3e821kj1HYF34vE4c2343aLOFSAPQPP-VGc8kYoTFULQfYiyzegsS5d7xtoU2BbtjNRA7hKOyVCEzbYxKCyB0MkXgwTAYj96GIdDLLwjfAJ9RAzWg12vx8eJLcDUdicLufZBESjF6NkjPEJETvjWA%3D%3D
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7 国防军事" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV7 国防军事
+https://livednow.com/migu/673168121?sign=gAAAAABm5t8YrVA_8HpvNMKFzEU8nmpaGXsvJcQlspzYFqJMqzVlE2aFkusC2yNeCSoLI2pZ4g8XeiZJ5dMVqpY7RrqSlhdhMCoNtbBHAGfmNp8BoYgbc4PB9ofz9o1OvoZMnr0TWgpu8zG4Xbb3fUwK0Hni2OSFUDubnCUye37mPzFWp3a5Gv7gM2QMSUFo9REKCxUC3_kxuwjvQSVJA6hTVDVnxzpUpw%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="咪咕央视",CCTV8 电视剧
-https://livednow.com/migu/624878356?sign=gAAAAABml7qm7w57C3G8BNSeNlGcPODVX0GMVjSzVO3kX4xoO5vRy0usgC-IUaNOvlFRMHi8hogFJWxjnXc5P7t5WFjmDAES45octWdDtrp2Ccn-hQbZdKJj-llMJ-ZLqQW5j6BBcAR3ph0IlyaO_2xRIbpH8qUIXQC67bDyVObR2hC4DNwVqlvnaPAJlmcOinQpIM-RpUD_kq75G2vcnVzwZCL4rhDNcw%3D%3D
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8 电视剧" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV8 电视剧
+https://livednow.com/migu/624878356?sign=gAAAAABm5t8Ya2HxQTeI5dU0NLftpEyvAMI9EJsyyb7as7EjH0eRuIyzBLVXF1W_UoxFTFczwreUbzen9XJTARfoPlPbc1lU2kSb3dKk7U-Vs8aNf1xJ0Pv4axh8zJH6Uhn47aQBnKiffIBUGt-t_5yqSJtKx-qT524ZjOn6HApKp-6QcqQdIGeq5RFIOZvsP2TiktsF5NH8W6GwYZiRHQHHfZ8NvXCXKw%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="咪咕央视",CCTV9 纪录
-https://livednow.com/migu/673168140?sign=gAAAAABml7qmYsG6bxOZ_klluyVxjXN9efzm-hLgPpph45RnqEMuQwkMVwGI4_buu4-rB-T-qERtv3Moy2az2AE7y2apKdIR2_VZdtuN7RCn3Fdu84ToNOvJ_KJrk5kCV3oHt1ElCUJp_aDz17gpjZPIPf2-eC54yCs8fY_jro5XPuwvbhvk05ITR_0DjSZ7TxGktsg7gzVB_aJCtVMluW6VdKu6tMMlNg%3D%3D
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9 纪录" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV9 纪录
+https://livednow.com/migu/673168140?sign=gAAAAABm5t8YO_tFlnAlxaBo9HBxBBlMmfb3T0CZhj3ocKaaMAntZcs_Xx6ymYbvT4oWUb52gYW3t3grK6MqTZNNbbPMH_DadaFkxMpliAP1gGrWH1zYRuY-frGKkC5WR3hNebbIQpoF8rci5ZXy6UT33ik5u7LGb894u2EprN5jFOg0pqNdoocQW-ubYY5KW1wR37OHwyau8hI631bvneqcbAjCXVte1g%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="咪咕央视",CCTV10 科教
-https://livednow.com/migu/624878405?sign=gAAAAABml7qm2TqOePXGrRmB8tLugddOEJ3NzzJRm4tbNKyfibAKxlca2YtzC11J0Mf_RlpiHwat6rcCG_2UOAlW5R3-oR5-mkcWND2AG5ZGLDdVIoDYxcV9uT119ncXOJvAZNObYRU67fk5inmCFb6iaLbIp60RtVvRae1C51FUvSVbhM8S3oa3IU4x3m8WE1Bkpytamx-BTx2S2w2qqsnp5Pa66oFAgQ%3D%3D
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10 科教" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV10 科教
+https://livednow.com/migu/624878405?sign=gAAAAABm5t8YTuofx-1Fg01SjfrS2S6E8lDmguIgdO5zlfWogB55VPq5ZLvrZB6ISeXFkJJ2dbwRmTBqYFME1r5VuFNCKfK33_xkzo08Jx_uJOa0tapPcIWQpgN2z1xVEhidqV5q46egEm3UkEGc02x9W614HoAQTikgB6CYRtcqSiD0a7jKrJCUzIi_7iuFAe35hcgXDUMnipDXTIH8eWqoEtJ6eij8FA%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="咪咕央视",CCTV11 戏曲
-https://livednow.com/migu/667987558?sign=gAAAAABml7qmSqcog6KVXdkFqlGRh-cnEI4EtFiB_NbAial-mk1pxkmfxKA6mYbV6A0RO-2CgDbSb9UTTPkvix8u8oZuifdDxpTRHupzJok8Zig7IDy-dTYqsCoYxaSK8EXH7neeFNbyrCYKEtcXtMKOD9flZYElFjXFcDZHZfpe7z7XFg73B-3J9jxwm7uVNr4NE4C1qaBYSiFM4kVFy5GqiL0BFE0fYg%3D%3D
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11 戏曲" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV11 戏曲
+https://livednow.com/migu/667987558?sign=gAAAAABm5t8YJ7mNN3EIsJOQNyhI28NtKmem0BHMo8w2fgaeUJP6CYgQpprIyC5lliZM6YnzMj5uzNebYkKmaUua9b1XPhLYz927ckgj9YdegfulOrKhnM_yc_6MaqjglYCyIDSWYHB8-WSjaC-jztdiTqSHJzHWD8aGon2w0ImNSkm-tLiRK-RzyfI7G_lj23gNPIad43TG8Cjr0bB9X4NDDDHIfa8x4w%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="咪咕央视",CCTV12 社会与法
-https://livednow.com/migu/673168185?sign=gAAAAABml7qmsMys8NTNaUymeDtRFknt-dHgDJ5Qn-DVploHKIrZihg2nfOCU7kQT6g1YKOa2ggk5jZnS1ranFCWhcE7Dtk-deouP_dwuplE2yquAX7LqLd_gFBfcekxiNabAGrnUS7ETFDNPnnessRn6lAmwRu6N6EEbnNibJ15bWvr3pTCdcp_twbcAJ79IYjKqiYjL7l6z-BUimPuR_mU3LjUuuUYrw%3D%3D
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12 社会与法" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV12 社会与法
+https://livednow.com/migu/673168185?sign=gAAAAABm5t8Y0e4jnXRXe5DqGDnvtMLXShQmO5xmMDUkroavmPOoDdmm4dnXUkNOaplPZLrL-DtwuT4kCDXZftoxZEWSrLs-0FAnWWGHmjOuDYLddhlvdIIYWraQauYisJh-8FgRE2lqfKYp8lUCKRMnNoZuCru_0BwIywmi4CknTzpN5mzZGRI9t8ftLffBLGlrpRMqEf3qpyQ69wdqpD8mMVl_Q8UnZQ%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="咪咕央视",CCTV13 新闻
-https://livednow.com/migu/608807423?sign=gAAAAABml7qmUtlBYbwCkBTy78BHvugotM62mD-SWPtJs1nqbnBKKUBumKDGUO3rWZmUrjCgSfiCo1e8sd1hWncGqq3C5nAeHlVZ2U0_3qhiSFL69CKORRSOMY6zAdNrUHIKIoGFjUDVE4djnHshbQbMNUKDB19HoUGR6N9ET7KeukYB3xSRf2xeZHxCF4MRY-f7G2iK3yPVzfSqwmsbM7emANylyZdJxw%3D%3D
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13 新闻" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV13 新闻
+https://livednow.com/migu/608807423?sign=gAAAAABm5t8Yifyb1wsTwU_i7WWDcVz5xi78NJot7fLYt2VQlK4hu9y4VhsGPGD20-5zqfLyOF6Gz-cxYcdiRWPy76emMfZbrprJi2xyUJ9X6sga-tu1ncGJIOf1pS1Xa9afEhLHvajGI6UY6otze3GT_nh-ftKPfm43Y-ZgwZbdQYA9-_nw0nXqZEm2zWaznZF-CVHCTUdfr8kENVfvUEZP4de7jDx5gA%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="咪咕央视",CCTV14 少儿
-https://livednow.com/migu/624878440?sign=gAAAAABml7qmBTeJ-5vF5cGxjZvwL0maHRXgXoD7Bu-4ry8R90c6HGlxgbcAdnHbNBtH1yYSNmKsetgQPxi8QCmJfHEEosE8TzbRhPll078bp7VXT8LmkafrEHrjXg_EfNSnRTpP8VXrAX5yUGNQLt1rWlwM7rai2y8JunPnn6a9usywOX1bAVoDRx10bu_OudzKBSKMrYq1fW4aj5xBS9d6Qvgk4cWgfw%3D%3D
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14 少儿" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV14 少儿
+https://livednow.com/migu/624878440?sign=gAAAAABm5t8Yv30zFQ10C21dWvQfF5c-yejdCBvZVnq7HRzYIsxGjYj8WpJPRg1AV5ompxUb9q8mDg7HO4hHD8HgcdhCpqpIIFE8O8fH_QbrmLHCR2cMHzgHM5BD9s9TeaHcbcPQzcDWK293VyqYvZwhC29jhmDYqD4j4YJh_-pFDb3m-KWpYCQvxm_S-eLfK6KstHowGjqDCYFrwrA66Jd3CP0SfOLpCA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV15 音乐
+https://livednow.com/migu/673168223?sign=gAAAAABm5t8YzbkH9F9HU6kf9qI6EGK6d1_I40dutkVbAh649nZlavYGqXCP5EAbeEObnxnLqpnSn8hpWK4Xleyr-K8ajgo5Bj5YzpvGzcr--wylxEkOBoqqUbaUlPnFNxDKmwDYM7AGwFBRLmgJD3y91jMEAJKAdDu-p4W_6dLWYHSQIr9ZtFgXMK9fwfIbxUVzJ6yArAdyCGWt2az5ps2lXN4UuB0wAA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV17 农业农村
+https://livednow.com/migu/673168256?sign=gAAAAABm5t8YbiReEja19tXEgKEzZdb5bHylskxCdypwPtG7QEDUtkjG3eqiCl9rZaAtNwwp5DYq3_YRSiHrmMfyzJXcb7EVHYzvJkOIpoFUC8RyYwYrvcTa3AkRamdt9iNi4sNUsmrpe7bWO0CoC0JvhmAaKVAGCyRON7a-h2GST9VcY4GfylPyhgBDqbZKKqnrADw2q61dOBcflo9WoR5WD4LdPthPMA%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-欧洲" tvg-name="CCTV4 欧洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png" group-title="央视",CCTV4 欧洲
+https://livednow.com/migu/608807419?sign=gAAAAABm5t8Y_a7WTTTiFH1-MVPTvgHx5kV722CfxkU1QeXDVBfWvNOna63lZeBQKqEuJu_LmxkFPqbEnaZ-pYx7xXItTu9_zjTsrnmHesaLY-vaGAycKAfKrp7dosljWwVDBpOhprH313eGNmVzie7_LMx7jHH7T9h9JrT436RxdcR3GRpuh7g3bdO9r9lG4kloIYrYCuaLJ1bq2h6V54Ssq5XkqELqTg%3D%3D
+
+#EXTINF:-1 tvg-id="CCTV4-美洲" tvg-name="CCTV4 美洲" tvg-logo="https://assets.livednow.com/logo/CCTV4-美洲.png" group-title="央视",CCTV4 美洲
+https://livednow.com/migu/608807416?sign=gAAAAABm5t8YT-WfRMfcaHyS0YVKgkPvTpz9DkTomNRQ5V-R6vcNISk9WTbKaxe0Akzc4mz3G-ue4x34Wbu2CET6SFtvD28nJl0fNWbw81K5OUFWyOHQYZsvL3GJOdcxD5sYT3CiHoTNUayRxDwY8LZ8U3BRUAs59lhN3HaqLZ7rIXgSgERzCSVIQbqbDVTjsPuHuRLvm37vlFgtHaPLyW4NDaOkwact-Q%3D%3D
 
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15 音乐" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="咪咕央视",CCTV15 音乐
 https://livednow.com/migu/673168223?sign=gAAAAABml7qmw4tpTgZDazbte96BYcJDl4ky7ZrLGBYHqY0MfNIP9E5Bv03vHfMkqeTDTETRP7ix3nA6wUEPou1QVvHLt98NBmzr9BuHR34d43c7pUGt6tt-prDoRZeNfTBYpIVaCByQ3CrRM5Qas-XgcXQJA0uPnLVXIcV5J4eTzRqKfFm-m_byxsYOCaDunMnfKS80F8twNtzW1Hz_UITq3jgf2AghhA%3D%3D
