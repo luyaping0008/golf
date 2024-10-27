@@ -122,8 +122,6 @@ https://api.livednow.org//migu/849119120?sign=gAAAAABm5t8YsozkqWO432Gigym7vlC9T0
 http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 #EXTINF:-1 group-title="央卫IV6-0",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226016/index.m3u8
-#EXTINF:-1 group-title="央卫IV6-0",CCTV1
-http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221226525/index.m3u8
 #EXTINF:-1 group-title="央卫IV6-0",CCTV2
 http://ottrrs.hl.chinamobile.com/PLTV/88888890/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央卫IV6-0",CCTV3
