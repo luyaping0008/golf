@@ -908,11 +908,9 @@ https://api.livednow.org//migu/654102378?sign=gAAAAABm6B97rDsXdtVKgz48UYelU06rBt
 https://api.livednow.org//migu/790188417?sign=gAAAAABm6B97aFInSLOrmPRRevIjNyXZwYBpJ8-I74BBHBIdj_8Cx1VTU-BlOfPmRGmop-gKZ7E3Y1tzD-gFQiFON3D2tD65ZKDfmosXJLDvtgaJWJHu4IrIsoD4Mt2eEyszHz8ijR7mL5ZHcGzBBRPqGcTTblBzobV7NTEUfvJPCElAvQ_8qnZ0dQHAOLtBwLfDW2p71WLSX7pwc7VOZMXaSWlJ_k1jHg%3D%3D
 
 #EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方",上海新闻ipv6
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
-
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方",上海都市ipv6
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
-
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281
 
 #EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://assets.livednow.com/logo/上海东方影视.png" group-title="地方",上海东方影视
 https://api.livednow.org//migu/617290047?sign=gAAAAABm6B97D6FpBk9ukYx5zGMehneIKYUcincf1-Kelwn5rHSQ3UppcLVJLw30JYz6v51KC1vtg1cxDUCzSdYnLuKqbZrBA4noszg8qHpvJQFQVcF2V81idBcFtrbQF0eQTGDQw_9jidvXXuQyAPzcDoIEJclWOkIn2Jq7ltnla6bZMj5rxXeyrx7-AFLAEK0RXkfmj1F4a1tTSWm3Dv0Sa36sGGvaMQ%3D%3D
